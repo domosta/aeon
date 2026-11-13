@@ -1,11 +1,3 @@
 {
-  "mcpServers": {
-    "flovia": {
-      "type": "http",
-      "url": "https://api.flovia.dev/mcp",
-      "headers": {
-        "Authorization": "Bearer ${MCP_FLOVIA_TOKEN}"
-      }
-    }
-  }
+  "mcpServers": {}
 }

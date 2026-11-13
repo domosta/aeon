@@ -1,15 +1,22 @@
 {
   "skill": "flovia",
-  "last_analyzed": "2026-11-13T07:15:19Z",
-  "quality_score": 4,
-  "assessment": "Correct, well-structured status report for an empty `var` (the skill's defined behavior), with a live CoinGecko path check whose BTC/ETH figures independently verify; no flags warranted.",
+  "last_analyzed": "2026-11-13T10:37:26Z",
+  "quality_score": 5,
+  "assessment": "Substantive, well-sourced live-data report (Nansen smart money, CoinGecko pools, Exa news) with clear fact/inference separation, disclosed gaps and caveats, and a prioritized actionable summary; spot-checks confirm the date, ETH price, SPCX tokenized-stock existence and cited domains are real.",
   "flags": [],
-  "avg_score": 4,
+  "avg_score": 4.5,
   "history": [
     {
       "date": "2026-11-13",
       "score": 4,
       "ts": "2026-11-13T07:15:19Z",
+      "harness": "pi",
+      "model": "openrouter/deepseek/deepseek-v4.1-flash"
+    },
+    {
+      "date": "2026-11-13",
+      "score": 5,
+      "ts": "2026-11-13T10:37:26Z",
       "harness": "pi",
       "model": "openrouter/deepseek/deepseek-v4.1-flash"
     }

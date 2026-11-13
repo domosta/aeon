@@ -1,0 +1,17 @@
+{
+  "skill": "flovia",
+  "last_analyzed": "2026-11-13T07:15:19Z",
+  "quality_score": 4,
+  "assessment": "Correct, well-structured status report for an empty `var` (the skill's defined behavior), with a live CoinGecko path check whose BTC/ETH figures independently verify; no flags warranted.",
+  "flags": [],
+  "avg_score": 4,
+  "history": [
+    {
+      "date": "2026-11-13",
+      "score": 4,
+      "ts": "2026-11-13T07:15:19Z",
+      "harness": "pi",
+      "model": "openrouter/deepseek/deepseek-v4.1-flash"
+    }
+  ]
+}

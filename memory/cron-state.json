@@ -10,8 +10,8 @@
     "last_error": "openrouter: API Error: 402 Insufficient credits. This account never purchased credits. Make sure your key is on the correct account or org, and if so, p"
   },
   "heartbeat": {
-    "last_dispatch": "2026-11-12T21:55:57Z",
-    "last_status": "failed",
+    "last_dispatch": "2026-11-13T02:35:10Z",
+    "last_status": "dispatched",
     "last_failed": "2026-11-12T21:56:18Z",
     "total_runs": 1,
     "total_successes": 0,

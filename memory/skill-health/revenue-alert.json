@@ -1,0 +1,17 @@
+{
+  "skill": "revenue-alert",
+  "last_analyzed": "2026-11-13T09:58:14Z",
+  "quality_score": 4,
+  "assessment": "Substantive, well-structured revenue-spike alert with concrete 24h-vs-prior-day figures and a genuine fee-vs-revenue divergence insight; specifics are plausible DefiLlama reads but not independently confirmed here.",
+  "flags": [],
+  "avg_score": 4,
+  "history": [
+    {
+      "date": "2026-11-13",
+      "score": 4,
+      "ts": "2026-11-13T09:58:14Z",
+      "harness": "pi",
+      "model": "openrouter/deepseek/deepseek-v4.1-flash"
+    }
+  ]
+}

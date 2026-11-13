@@ -77,3 +77,35 @@ This skill is `read-only`, so the workflow's read-only guard writes its `### flo
 - Result: FLOVIA_OK | FLOVIA_EMPTY_VAR | FLOVIA_NOT_CONNECTED | FLOVIA_AUTH_STALE | FLOVIA_WINDOW_FULL | FLOVIA_ERROR
 - Sources: <tool names used> | Calls: <N>/<budget>
 ```
+---
+name: flovia
+description: Daily smart money and narrative report via Flovia MCP.
+---
+
+# Flovia Smart Money Report
+
+Daily smart money & narrative report for Base and Robinhood Chain:
+
+1. Smart Money Activity (last 24h, Nansen):
+   - Top tokens bought by smart money / labeled wallets (amount, # of wallets, avg buy size) on Base and Robinhood
+   - Top tokens sold or being distributed
+   - Notable new positions or size increases by high-performing wallets
+   - Any wallets that previously had big wins now positioning
+
+2. Attention & Flows:
+   - Tokens with sudden volume or buyer spikes
+   - Any early accumulation before larger moves
+   - DEX liquidity changes or notable inflows
+
+3. Why (short analysis per relevant token):
+   - Current narrative / catalyst (if any)
+   - Fundamentals or onchain metrics that stand out
+   - How smart money is positioned vs retail
+   - Risk level (early, mid, late, or exit)
+
+4. Actionable Summary:
+   - 3–5 highest conviction setups right now (with reason)
+   - Anything that looks like an emerging narrative
+   - Warnings (heavy selling by smart money, etc.)
+
+Focus on Base and Robinhood Chain. Only include meaningful activity (skip small noise). Prioritize speed and clarity so I can act quickly. Use tables where it helps.

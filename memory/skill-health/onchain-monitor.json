@@ -1,0 +1,17 @@
+{
+  "skill": "onchain-monitor",
+  "last_analyzed": "2026-11-14T10:15:33Z",
+  "quality_score": 3,
+  "assessment": "Correctly handled an empty watchlist by reporting no addresses configured and prompting for input; a legitimate no-op rather than a failed run.",
+  "flags": [],
+  "avg_score": 3,
+  "history": [
+    {
+      "date": "2026-11-14",
+      "score": 3,
+      "ts": "2026-11-14T10:15:33Z",
+      "harness": "pi",
+      "model": "openrouter/deepseek/deepseek-v4.1-flash"
+    }
+  ]
+}

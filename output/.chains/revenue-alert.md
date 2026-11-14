@@ -1,30 +1,37 @@
-⚠️ Revenue Alert - Base lending-fee surge, 6 revenue spikes
+⚠️ Revenue alert - Base fees +71% d/d, protocol-revenue spikes on Base & Robinhood Chain
 
-## 💸 Revenue Alert - Base + Robinhood Chain
+## Revenue Alert - 2026-11-14
 
-Source: DefiLlama fees/revenue overview, read 2026-11-13. Comparison = last 24h vs prior 24h.
+DefiLlama `/overview/fees/{chain}`, last 24h vs prior 24h. **Revenue** = protocol take; **fees** = user-paid.
 
-**Base - lending-fee surge, protocol revenue mixed**
-- **Morpho Blue** ⚠️ fees **$2.02M vs $325k (+520%)** - biggest absolute spike; its protocol *revenue* line on Base is $0, so this is pass-through/volume, not take.
-- **Aave V3** fees **$81.9k (+105%)** but revenue only $9.4k (+6.7%) - same divergence.
-- **Moonwell Lending** fees **$11.1k vs $2.9k (+288%)**.
-→ Cluster points to a Base lending/borrowing event: fees up sharply, protocol take flat.
+### Chain-level
 
-**Base - protocol revenue jumps (≥50%)**
-- **Uniswap V3** $94.2k vs $51.8k (**+82%**) - largest absolute revenue gain
-- **DYLI** (Physical TCG) $40.1k vs $6.7k (**+502%**) - 6x from a low base
-- **Central City** (AI Agents) $37.0k vs $22.7k (**+63%**)
-- **Aero Basic** (DEX) $20.7k vs $9.9k (**+110%**)
-- **clanker** $7.7k vs $0.3k (**+2468%**) - 25x off near-zero
-- **Mayan DEX Aggregator** $7.4k vs $1.6k (**+354%**)
+| Chain | Revenue 24h | Δ prior day | vs 7d avg | Fees 24h | Δ |
+|---|---|---|---|---|---|
+| Base | $709k | **+34.6%** | 0.90× | $3.32M | **+71.2%** |
+| Robinhood | $333k | +14.1% | 1.07× | $1.27M | +9.5% |
 
-**Robinhood Chain**
-- **StonkBrokers Card Wall** $3.3k vs $1.9k (**+73%**)
-- **KyberSwap Aggregator** $1.7k vs $0.9k (**+88%**)
-- **Morpho Blue** fees $96.6k vs $57.9k (**+67%**)
+Base's fee spike is a real activity burst (1.46× its 7d avg; Base DEX volume +28.8% to $1.42B), but it is **mostly pass-through**: Morpho Blue alone paid $1.01M in fees (+44%), of which protocol revenue = **$0**. Net Base revenue capture sat near normal.
 
-**Chain aggregates (24h vs prior day)**
-- Base: revenue $526k vs $630k (**−16%**), 7d avg $795k · fees $1.94M vs $1.59M (**+22%**)
-- Robinhood Chain: revenue $292k vs $339k (**−14%**) · fees $1.16M vs $1.20M (−3%)
+### Base - protocol revenue spikes ≥50%
 
-**Watch:** the Base lending-fee cluster (Morpho / Aave / Moonwell). If protocol revenue follows fees tomorrow, it becomes a much bigger story.
+- **Veranta** (Derivatives) - $11.5k → **$59.7k, +421%** (Δ+$48k; 3.7× 7d avg). Avantis perp DEX; upside/profit-share fees firing in a volatile session. Biggest genuine revenue mover today.
+- **deBridge** (Bridge) - $4.5k → **$30.0k, +561%** (Δ+$25k; 2.3× 7d avg). Cross-chain volume burst from a low base.
+- **Aero Basic** (DEX) - $9.3k → **$19.8k, +114%**
+- **Top.Market** (Physical TCG) - $5.0k → **$9.4k, +90%**
+- **PancakeSwap AMM V3** (DEX) - $4.4k → **$7.0k, +59%**
+- **Base** (chain take) - $89.0k → **$138.2k, +55%**
+
+Below the 50% bar but large: **Aero Slipstream** $224k→$270k (+20%, Δ+$46k - Base's largest revenue line), **Uniswap V3** $60k→$80k (+32%), **Aave V3** $4.8k→$6.5k (+35%).
+
+### Robinhood Chain - protocol revenue spikes ≥50%
+
+- **The Standard Reserve** (Reserve Currency) - $18.8k → **$48.1k, +156%** (Δ+$29k) - but that is just back to its $44k 7d run-rate: a low-day rebound, not a new high.
+- **Orbio** (AI Agents) - $0.5k → **$1.8k, +249%** (tiny base)
+- **MetaMask Wallet** - $1.5k → **$3.0k, +100%**
+- **StonkBrokers Card Wall** - $2.1k → **$3.2k, +56%**
+
+Robinhood's biggest lines were flat: Lighter RH Perps $72.8k (+8%), Arcus Perps $66.0k (+10%).
+
+### Why it matters
+Risk-off tape (BTC ~$67k, F&G 13) with DEX / derivatives / bridge volume up. **Watch:** does the Base fee burst persist above 1.5× its 7d average, and does any of it convert to protocol revenue - or is it the same lending pass-through flagged yesterday (Morpho/Aave fee surge, near-zero take)?

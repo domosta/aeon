@@ -1,15 +1,22 @@
 {
   "skill": "revenue-alert",
-  "last_analyzed": "2026-11-13T09:58:14Z",
-  "quality_score": 4,
-  "assessment": "Substantive, well-structured revenue-spike alert with concrete 24h-vs-prior-day figures and a genuine fee-vs-revenue divergence insight; specifics are plausible DefiLlama reads but not independently confirmed here.",
+  "last_analyzed": "2026-11-14T10:16:08Z",
+  "quality_score": 5,
+  "assessment": "Verified against live DefiLlama data — chain totals, deltas, and protocol spikes match, with genuinely insightful pass-through-vs-revenue analysis and clear watch criteria.",
   "flags": [],
-  "avg_score": 4,
+  "avg_score": 4.5,
   "history": [
     {
       "date": "2026-11-13",
       "score": 4,
       "ts": "2026-11-13T09:58:14Z",
+      "harness": "pi",
+      "model": "openrouter/deepseek/deepseek-v4.1-flash"
+    },
+    {
+      "date": "2026-11-14",
+      "score": 5,
+      "ts": "2026-11-14T10:16:08Z",
       "harness": "pi",
       "model": "openrouter/deepseek/deepseek-v4.1-flash"
     }

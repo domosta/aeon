@@ -1,10 +1,10 @@
 {
   "skill": "flovia",
-  "last_analyzed": "2026-11-13T10:37:26Z",
+  "last_analyzed": "2026-11-14T10:16:41Z",
   "quality_score": 5,
-  "assessment": "Substantive, well-sourced live-data report (Nansen smart money, CoinGecko pools, Exa news) with clear fact/inference separation, disclosed gaps and caveats, and a prioritized actionable summary; spot-checks confirm the date, ETH price, SPCX tokenized-stock existence and cited domains are real.",
+  "assessment": "Substantive, well-structured daily smart-money report with verified figures: the RobinSwap recap ($812.4M Nov 5 / $704.2M Nov 9; 45.1/32.4/10.9 DEX split), TokenPost (67.1%, 18.2%, 2.6%→15.6%) and TheChainObserver ($10.01M fees, $16.59B of $30.32B ≈55%) all matched their cited sources, day-over-day values reconcile exactly with the 2026-11-13 run, and unverifiable items (FRONG/POOLS names, tiny dollar flows, inferred seller side) are explicitly flagged; only nit is the omitted `### flovia` result-record block.",
   "flags": [],
-  "avg_score": 4.5,
+  "avg_score": 4.67,
   "history": [
     {
       "date": "2026-11-13",
@@ -17,6 +17,13 @@
       "date": "2026-11-13",
       "score": 5,
       "ts": "2026-11-13T10:37:26Z",
+      "harness": "pi",
+      "model": "openrouter/deepseek/deepseek-v4.1-flash"
+    },
+    {
+      "date": "2026-11-14",
+      "score": 5,
+      "ts": "2026-11-14T10:16:41Z",
       "harness": "pi",
       "model": "openrouter/deepseek/deepseek-v4.1-flash"
     }

@@ -11,3 +11,4 @@ date,skill,model,input_tokens,output_tokens,cache_read,cache_creation
 2026-11-14,heartbeat,openrouter/deepseek/deepseek-v4.1-flash,44708,24963,1015936,0
 2026-11-14,defi-overview,openrouter/deepseek/deepseek-v4.1-flash,110261,29561,1567360,0
 2026-11-14,onchain-monitor,openrouter/deepseek/deepseek-v4.1-flash,40928,3249,303616,0
+2026-11-14,defi-overview,openrouter/deepseek/deepseek-v4.1-flash,78897,35187,2837760,0

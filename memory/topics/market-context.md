@@ -1,64 +1,64 @@
 # Market Context (as of 2026-11-14)
 
-> **Take:** risk-off - BTC −2.6% 24h with only 6/20 top-cap majors green and F&G at 13 (Extreme Fear). Conviction: high.
+> **Take:** risk-off - BTC −3.1% 24h with only 4/20 top-cap majors green and F&G at 13 (Extreme Fear). Conviction: high.
 
 ## Signal Snapshot
-- BTC $66,974 (±-2.5% 24h, ±-11.3% 7d) · dominance 58.8% (±n/a pp 24h)
-- ETH $1,891.74 (±-2.5% 24h, ±-15.3% 7d) · ETH/BTC 0.0282
-- SOL $75.03 (±-6.2% 24h, ±-16.1% 7d)
-- Total mcap $2.28T (±-5.1% 24h) · DEX vol $9.85B 24h
-- Breadth: 6/20 green 24h · 3/20 green 7d
-- Fear & Greed: 13 (Extreme Fear) - yesterday 20 (Extreme Fear)
+- BTC $67,225 (±-3.1% 24h, ±-11.5% 7d) · dominance 58.8% (±n/a pp 24h)
+- ETH $1,907.07 (±-2.3% 24h, ±-14.9% 7d) · ETH/BTC 0.0284
+- SOL $75.76 (±-5.7% 24h, ±-15.9% 7d)
+- Total mcap $2.29T (±-3.8% 24h) · DEX vol $9.85B 24h
+- Breadth: 4/20 green 24h · 3/20 green 7d
+- Fear & Greed: 13 (Extreme Fear) - yesterday 13 (Extreme Fear)
 
 ## What Changed Since Last Refresh
-- First refresh - no prior snapshot to diff. Baseline established: BTC −11.3% and ETH −15.3% over 7d; total DeFi TVL −8.9% 7d; F&G 13, down 7 pts from yesterday.
-- Fed repricing is the dominant driver: October CPI ran hot (core +0.3% m/m), CME FedWatch now prices >88% odds of a 25bp *hike* at the December meeting; 10y Treasury yield touched 5.17%, the biggest weekly surge since 2022.
-- $1.47B of crypto liquidations in 24h (175,299 traders, $1.31B longs) per CoinGlass, as BTC broke below $69k.
+- Quiet - BTC +0.4% since the earlier 11-14 refresh ($66,974 → $67,225), F&G flat at 13, TVL −3.9% (vs −3.8%). Regime unchanged.
+- Breadth slipped to 4/20 green 24h from 6/20; SOL deepened to −5.7% 24h (−15.9% 7d), still the worst top-10 major.
+- No new macro catalyst in the window: the Fed-repricing + BTC-ETF-outflow story is unchanged.
 
 ## Active Narratives
-- **Fed rate-hike repricing** - phase: rising. Evidence: >88% priced odds of a December 25bp hike (CME FedWatch) and 10y yields at 5.17%, the biggest weekly jump since 2022.
-- **Bitcoin ETF de-risking** - phase: rising. Evidence: 7 straight sessions of net outflows, −$185.45M on Nov 13 and ~$1.07B across the five sessions Nov 9–13.
-- **Tokenized equities on Base / Aero** - phase: rising. Evidence: AERO held ~28% of $2.7B weekly tokenized-stock DEX volume and drew net smart-money inflow into a −10% day (11-13 run).
-- **Alt-beta unwind (SOL)** - phase: fading. Evidence: SOL −16.1% 7d, worst top-10 major, with Solana DeFi TVL −7.7% 7d.
-- **Micro-cap speculation (Akedo AKE)** - phase: emerging. Evidence: +188.5% 24h, #2 CoinGecko trending, market-cap rank 132.
+- **Fed rate-hike repricing** - phase: rising. Evidence: December 25bp hike priced at 87.5% (Polymarket), dollar at a 2026 high (DXY 103.4) and 10Y UST 5.154%.
+- **Bitcoin ETF de-risking** - phase: peak. Evidence: 7 straight sessions of outflows through Nov 13; −$2.35B over two weeks; BlackRock IBIT on an 11-session losing streak.
+- **Tokenized equities / 24/7 RWA** - phase: rising. Evidence: Aero Slipstream $0.93B 24h DEX volume — the venue of the ~$2.7B/week tokenized-stock market.
+- **Alt-beta unwind (SOL)** - phase: fading. Evidence: SOL −15.9% 7d, worst top-10 major, with Solana DeFi TVL −8.0% 7d.
+- **Micro-cap speculation (Akedo AKE)** - phase: emerging. Evidence: +108.5% 24h, #2 CoinGecko trending, market-cap rank 124.
 
 ## Top DeFi Protocols (TVL, 7d change)
-- Lido: $18.63B (−14.7%)
-- LayerZero V2: $17.73B (−0.5%)
-- Aave V3: $14.23B (−10.1%)
-- Morpho Blue: $10.31B (−4.9%)
-- SSV Network: $9.98B (−14.9%)
+- Lido: $18.54B (−15.1%)
+- LayerZero V2: $17.62B (−2.5%)
+- Aave V3: $14.22B (−10.3%)
+- Morpho Blue: $10.30B (−5.5%)
+- SSV Network: $10.10B (−14.1%)
 
 ## Chain Flow (top 3 by TVL, 7d)
-- Ethereum: $38.69B (−10.6%)
-- Base: $5.38B (−6.6%)
-- Solana: $4.82B (−7.7%)
+- Ethereum: $38.65B (−10.7%)
+- Base: $5.37B (−6.8%)
+- Solana: $4.81B (−8.0%)
 
 ## Stablecoins
-Total: $287.66B (−1.5% 7d). USDT $175.2B · USDC $69.18B · USDS $5.36B · USDe $4.91B · combined share of mcap 11.2%.
+Total: $287.65B (−1.5% 7d). USDT $175.2B · USDC $69.2B · USDS $5.35B · USDe $4.91B · combined share of mcap 11.1%.
 
 ## Trending (CoinGecko)
-- AKE (Akedo) - +188.5% 24h, micro-cap speculative spike (rank 132)
-- BTC (Bitcoin) - #1 trending amid a −2.4% day and 7-day ETF outflow streak
-- XRP - −4.3% 24h, mcap rank 6
-- SOL - −6.3% 24h, worst top-10 major
-- PENGU (Pudgy Penguins) - −3.6% 24h
+- AKE (Akedo) - +108.5% 24h, micro-cap speculative spike (rank 124)
+- PEARL (Pearl) - +7.7% 24h, rank 94
+- BTC (Bitcoin) - #1 trending amid a −3.0% day and the 7-session ETF outflow streak
+- HYPE (Hyperliquid) - −4.0% 24h, rank 10
+- PENGU (Pudgy Penguins) - −3.3% 24h
 
 ## Prediction Markets (Polymarket, top by 24h vol)
 | Market | YES% | 24h Vol | Liquidity |
 |--------|------|---------|-----------|
-| Fed increase 25 bps after Dec 2026 meeting | 88.5% | $0.47m | $0.69m |
-| Fed increase 50+ bps after Dec 2026 meeting | 7.9% | $0.84m | $0.36m |
-| Fed no change after Dec 2026 meeting | 3.4% | $0.53m | $0.35m |
-| CS: Spirit vs MOUZ (BLAST Rivals Playoffs) | 47.5% | $0.78m | $0.49m |
+| Fed increase 50+ bps after Dec 2026 meeting | 8.0% | $0.88m | $0.36m |
+| Fed increase 25 bps after Dec 2026 meeting | 87.5% | $0.49m | $0.55m |
+| Fed no change after Dec 2026 meeting | 3.5% | $0.57m | $0.41m |
+| CS: FURIA vs Team Falcons (BLAST Rivals Playoffs) | 51.5% | $0.73m | $0.74m |
 
 ## Macro Catalysts (next 48h)
-- No scheduled high-impact release in 48h; the live driver is December FOMC pricing (>88% for a 25bp hike, ~8% for 50bp).
-- Positioning implication: hawkish repricing keeps pressure on non-yielding risk assets; a 50bp outcome is the tail risk that extends crypto downside.
+- December FOMC pricing is the live driver: 87.5% for a 25bp hike, ~8% for 50bp. DXY at a 2026 high and 10Y at 5.154% keep pressure on non-yielding risk assets.
+- BTC ETF redemptions: 7 straight sessions through Nov 13 (−$185.4M Friday; IBIT −$143.5M). A break in the streak is the first positive tell; continuation extends crypto downside.
 
 ## Implications for Downstream Skills
 - **token-pick:** risk-off tape - favor stables/quality over alt beta; a long needs a Fed-pivot catalyst, not a DeFi-fundamentals one.
-- **narrative-tracker:** watch Fed rate-hike repricing and BTC ETF flows - both rising and either can flip the regime.
+- **narrative-tracker:** watch Fed rate-hike repricing and BTC ETF flows - both at extremes; either can flip the regime.
 
 ## Token Picks Made
 | Date | Token | Price | Thesis |

@@ -1,15 +1,22 @@
 {
   "skill": "defi-overview",
-  "last_analyzed": "2026-11-14T07:52:13Z",
-  "quality_score": 5,
-  "assessment": "Comprehensive, well-structured one-pass DeFi read whose key figures (TVL $73.65B, chain breakdown, BTC/ETH, F&G 13, Polymarket 88.5% yes) all verify against live APIs; regime verdict, movers with reasons, sustainable-vs-incentive yield split, fees fundamentals, breadth and prediction markets all covered with source status.",
+  "last_analyzed": "2026-11-14T10:17:23Z",
+  "quality_score": 4,
+  "assessment": "Complete one-pass DeFi read: regime take with conviction, TVL/chain/mover detail, fees-vs-TVL analysis, sustainable-vs-incentive yield split, macro/F&G/breadth/Polymarket, and a sources-ok footer; figures match the run log and today's market-context refresh, with no invented specifics.",
   "flags": [],
-  "avg_score": 5,
+  "avg_score": 4.5,
   "history": [
     {
       "date": "2026-11-14",
       "score": 5,
       "ts": "2026-11-14T07:52:13Z",
+      "harness": "pi",
+      "model": "openrouter/deepseek/deepseek-v4.1-flash"
+    },
+    {
+      "date": "2026-11-14",
+      "score": 4,
+      "ts": "2026-11-14T10:17:23Z",
       "harness": "pi",
       "model": "openrouter/deepseek/deepseek-v4.1-flash"
     }

@@ -1,43 +1,45 @@
 ℹ️ DeFi Overview - 2026-11-14
 
-**Crypto - 2026-11-14** - risk-off (conviction high) | DeFi Mixed: TVL −3.8% but DEX vol +21% (panic flow)
+*Crypto - 2026-11-14* - risk-off (conviction high) | DeFi Mixed: TVL −3.9% but DEX vol +21% (panic flows), stables flat
 
-**TVL:** $73.65B (−3.8% 24h, −8.9% 7d)
+**Take:** risk-off - BTC −3.1% 24h with only 4/20 top-cap majors green and F&G at 13 (Extreme Fear).
+**Conviction:** high - BTC, breadth, and TVL all down; only F&G flat (already pinned at Extreme Fear).
+**Evidence:** BTC ETF outflows ran 7 straight sessions through Nov 13 (−$185.4M Friday, IBIT −$143.5M), −$2.35B over two weeks.
 
-**Top chains**
-1. Ethereum - $38.69B (−4.1%)
-2. Base - $5.38B (−4.7%)
-3. Solana - $4.82B (−3.6%)
+*TVL:* $73.8B (−3.9% 24h, −9.0% 7d)
 
-**Movers**
-↓ Bitcoin chain −5.5% ($3.54B) - broad risk-off deleveraging, no chain-specific catalyst
-↑ Forward Industries SOL +23.3% ($0.31B) - liquid-staking inflow, no other detail
-_(no chain up-mover ≥5%; no protocol down-mover ≥10%)_
+*Top chains*
+1. Ethereum - $38.7B (−4.2% 24h, −10.7% 7d)
+2. Base - $5.37B (−4.9% 24h, −6.8% 7d)
+3. Solana - $4.81B (−3.8% 24h, −8.0% 7d)
 
-**Fees leaders (24h)**
-1. Tether - $17.0M (+0.4% vs 7d avg)
-2. Circle USDC - $6.8M (flat)
-3. Hyperliquid Perps - $4.2M (+56% 1d)
+*Movers*
+↓ Bitcoin chain −5.6% ($3.54B) - broad risk-off; ETF redemptions, no chain-specific event
+↑ Forward Industries SOL +20.9% ($0.30B) - SOL staking vehicle rebounding off oversold; no obvious catalyst
+↓ HTX −11.4% ($3.35B) - CEX TVL outflow; no obvious catalyst
 
-**Fees beating TVL**
-• Morpho Blue - fees +74% / TVL −5% (7d) - lending demand outrunning deposits
-• Curve DEX - fees +193% / TVL −4.7% (7d) - fee spike on volatile flow
+*Fees leaders (24h)*
+1. Tether - $17.0M (+2% vs 7d avg)
+2. Circle USDC - $6.8M (+1%)
+3. Hyperliquid Perps - $4.2M (+51%)
 
-**DEX vol (24h):** $9.85B (+21%) · top: Uniswap V3 $1.40B, PancakeSwap V3 $1.04B, Uniswap V4 $0.97B
+*Fees beating TVL*
+• Morpho Blue - fees +46% / TVL −5.5% (7d) - demand outrunning deposits
+• Uniswap V3 - fees +36% / TVL −9.0% (7d) - same, on a shrinking base
 
-**Stables:** $287.7B (−0.24% 24h, −1.5% 7d) - RLUSD +3.4%, USD1 −1.5% notable single-issuer moves
+*DEX vol (24h):* $9.85B (+21%)  top: Uniswap V3 $1.23B (+3.6%), PancakeSwap V3 $1.04B (+51%), Aero Slipstream $0.93B (+12.6%)
 
-**Real yield (sustainable, ≥$10M, filtered)**
-• Uniswap V3 WBTC-USDC (Ethereum) - 45.6% apyBase ($19M)
-• Uniswap V3 WETH-USDT (Ethereum) - 43.0% apyBase ($75M)
-• Uniswap V4 ETH-WBTC (Ethereum) - 32.9% apyBase ($27M)
-_fee-driven LP yield, IL-exposed_
+*Stables:* $287.7B (−0.2% 24h, −1.5% 7d)  - USDf −6.2%, PYUSD −3.1%, RLUSD +3.4%
 
-**Incentive yield (points / emissions, ≥$25M)**
-• SDCRV (stake-dao) - 18.6% apy via $CRV ($27M)
-• CVXCRV (Convex) - 18.1% apy via $CRV/$CVX ($34M)
+*Real yield (sustainable, ≥$10M, filtered)*
+• ETH-WBTC (Uniswap v4, ETH) - 32.8% apyBase ($26.5M TVL) · IL risk
+• CRVUSD-WETH (Curve, ETH) - 31.8% apyBase ($26.3M TVL) · IL risk
+• WETH-USDT (Uniswap v3, ETH) - 28.9% apyBase ($74.3M TVL) · IL risk
+_note: today's top base yields are volatile-pair LP fee spikes, not stable carry_
 
-**Macro:** BTC $66,974 (−2.5%) / ETH $1,892 (−2.5%) · F&G 13 (Extreme Fear) · breadth 6/20 · hot market: "Fed 25bp hike Dec 2026" YES 88.5%
+*Incentive yield (points / emissions, ≥$25M)*
+• SDCRV stake (Stake DAO, ETH) - 18.7% apy via $SDCRV rewards ($26.8M TVL)
+• CVXCRV (Convex, ETH) - 18.0% apy via $CVX rewards ($34.1M TVL)
 
-_Why: hot Oct CPI pushed Dec Fed HIKE odds >88%; 7 straight days of BTC ETF outflows (−$185M Nov 13); $1.47B liquidated. SOL −16% 7d. Tokenized-equities/Base narrative still rising._
+*Macro:* BTC $67,225 (−3.1%) / ETH $1,907 (−2.3%) · F&G 13 (Extreme Fear) · breadth 4/20 · hot market: "Fed +50bp Dec" YES 8%, 25bp 87.5%
 _sources: llama_tvl=ok llama_dex=ok llama_fees=ok llama_stables=ok llama_yields=ok coingecko=ok fng=ok polymarket=ok websearch=ok | var: none_

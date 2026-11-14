@@ -1,0 +1,16 @@
+{
+  "skill": "narrative-tracker",
+  "last_analyzed": "2026-11-14T08:26:11Z",
+  "quality_score": 4,
+  "assessment": "Complete decision-grade narrative map with mindshare, velocity, transitions, and position calls; tape and calibration figures match live sources, with a few compressed flow stats that are directional rather than fully sourced.",
+  "flags": [],
+  "avg_score": 4,
+  "history": [
+    {
+      "date": "2026-11-14",
+      "score": 4,
+      "ts": "2026-11-14T08:26:11Z",
+      "harness": "grok"
+    }
+  ]
+}

@@ -1,90 +1,96 @@
-ℹ️ Smart money & narrative - Base + Robinhood Chain (2026-11-14)
+ℹ️ Smart money & narrative - Base + Robinhood Chain (2026-11-15)
 
-Daily smart money & narrative report - Base + Robinhood Chain. Read 2026-11-14 ~10:15 UTC. Sources: Nansen (netflow 24h/7d/30d + smart-money DEX trades), CoinGecko onchain pools, Exa news. Free allowance 2% of the 5-hour window, 1% week/month.
+Daily smart money & narrative report - Base + Robinhood Chain. Read 2026-11-15 ~08:26 UTC. Sources: Nansen (netflow + smart-money DEX trades), CoinGecko onchain pools, Exa news.
 
 ## 1. Smart money, last 24h (Nansen)
 
-Only **20 tokens** show a positive 24h smart-money net inflow across both chains, and the largest is **+$4.8k** (yesterday's top was +$25.5k). Direction only, not size.
+**21 tokens** show a positive 24h smart-money net inflow (vs 20 yesterday), and the top is **SPCX +$19.5k** - 4x yesterday's top (+$4.8k). Direction only, not size.
 
-| Token | Chain | 24h | last 1h | 7d | 30d | traders | mcap |
-|---|---|---|---|---|---|---|---|
-| UP | Robinhood | +$4.8k | -$0.2k | +$3.6k | -$7.8k | 7 | $3.4M |
-| PONS | Robinhood | +$4.6k | +$7.5k | -$47.0k | -$91.8k | 29 | $86.9M |
-| DOT | Base | +$2.8k | 0 | +$1.6k | +$12.4k | 3 | $4.5M |
-| ZZZ | Robinhood | +$2.5k | 0 | +$2.7k | +$96.3k | 9 | $3.2M |
-| UBIK | Robinhood | +$2.5k | 0 | +$3.2k | +$10.1k | 6 | $3.8M |
-| RAXOL | Robinhood | +$2.5k | 0 | -$0.3k | +$13.4k | 5 | $2.0M |
-| DARK | Robinhood | +$2.5k | 0 | +$2.5k | +$7.0k | 2 | $0.8M |
-| WORM | Robinhood | +$2.5k | 0 | +$2.5k | -$1.0k | 4 | $0.9M |
-| RAETO | Robinhood | +$1.5k | 0 | -$7.4k | +$12.0k | 10 | $1.7M |
-| VVV | Base | +$0.8k | 0 | +$0.8k | +$400.7k | 5 | $903.0M |
+| Token | Chain | 24h | 7d | 30d | traders | mcap |
+|---|---|---|---|---|---|---|
+| SPCX | Robinhood | +$19.5k | +$42.9k | +$43.4k | 13 | $13.5M |
+| PIZZA | Robinhood | +$15.9k | +$15.9k | +$32.3k | 12 | $0.6M |
+| HOOKR | Robinhood | +$11.1k | -$58.3k | -$67.7k | 15 | $9.9M |
+| CASHCAT | Robinhood | +$10.8k | -$41.5k | +$169.8k | 20 | $39.1M |
+| SURPLUS | Base | +$10.7k | -$1.4k | -$146.7k | 7 | $12.6M |
+| GAGE | Robinhood | +$10.3k | +$8.4k | -$47.9k | 4 | $1.8M |
+| AI | Robinhood | +$9.8k | +$11.8k | -$181.9k | 30 | $22.6M |
+| PLAY | Base | +$6.0k | +$11.0k | +$10.0k | 1 | $2.5M |
+| UP | Robinhood | +$4.8k | +$9.2k | -$4.0k | 7 | $2.9M |
+| DOT | Base | +$3.9k | +$5.5k | +$15.3k | 3 | $3.7M |
+| ORBIO | Robinhood | +$2.5k | -$26.2k | -$5.8k | 20 | $16.8M |
 
-PONS's whole 24h is one last-hour burst (+$7.5k). UP's positive day reverses a negative 7d/30d.
-
-**Trade by trade** (Nansen smart-money DEX trades: 48 Robinhood + 1 Base rows, covering 2026-11-13 23:33 to 2026-11-14 10:05 UTC, about 10.5h of the window):
+**Trade by trade** (Nansen smart-money DEX trades; 49 rows, 2026-11-14 23:04 to 2026-11-15 08:10 UTC - ~9h of the 24h window; the page was truncated at 38kb of 77kb):
 
 | Token | Chain | Smart trader | Action |
 |---|---|---|---|
-| DRV | Base | 0x008ac1 | Sold 79,109 DRV for $21.0k USDC - largest single trade |
-| TORCH | Robinhood | 0x92109c | Sold 4.89M TORCH for $16.6k USDG; separately swapped 8.32 ETH into $16.0k USDG (de-risking) |
-| PRIORS | Robinhood | TECHNOPOPE 0x22bf36 | Sold 1.96M PRIORS for $10.3k ETH |
-| HOOKR | Robinhood | 0xc880ae | Bought $10.0k (two 5,000 USDG clips) |
-| PONS | Robinhood | 0xa79dc9 | Bought ~$9.0k with WIF over 10 trades, sold ~$0.9k for ETH - net buyer |
-| UP | Robinhood | 0xffae19 | Bought $4.95k in 15 DCA clips of ~334 USDG |
-| SUSAN / RAETO / BULL / TEST | Robinhood | 0x64bc99, 0xe62c8c, 0xd9cbe4, 0xa79dc9 | Small buys $0.2k-$1.9k |
+| AI | Robinhood | 0x39b011 | Bought ~$23.6k in 4 clips 05:21-05:53 (largest $13.4k) |
+| PONS | Robinhood | 0x83f56b | Sold ~$19.6k for ETH in 3 clips - largest distribution |
+| MSTR | Robinhood | 0x7c6e2f | Sold $15.8k MSTR for USDG |
+| CASHCAT | Robinhood | 0xbe69f4 | Bought $15.0k in one USDG clip - largest single buy |
+| GAGE | Robinhood | 0x39b011 | Bought $10.3k (two clips $8.4k + $1.9k) |
+| SURPLUS | Base | TECHNOPOPE 0x22bf36 | Bought $10.7k (3 clips of $3.6k with ETH) |
+| PIZZA | Robinhood | 0x39b011, 0x23ccf3, 0x7bee07 | Bought $6.9k + $5.1k + $3.9k |
+| NET | Robinhood | 0x39b011, TECHNOPOPE | Sold $7.5k and $3.7k for USDG/ETH |
+| DOT | Base | 0xba66d0, 0xd76b33 | Bought $2.9k + $1.0k with USDC |
+| PLAY | Base | 0xffae19 | DCA'd 4 clips of ~$0.5k |
+| ETH (Base) | Base | 0xd76b33 | Bought $1.5k + $2.0k of ETH with USDC (de-risking) |
 
-**Distribution** (7d/30d - the 24h seller tail is still unretrievable: the endpoint sorts descending and page 1 ends at 0):
+One wallet (0x39b011) drives most of PIZZA, GAGE and a large share of AI - that is concentration, not broad conviction.
+
+**Distribution** (7d/30d - the 24h seller ranking is still not retrievable; the netflow page ends at $0 before any negative):
 
 | Token | Chain | 7d | 30d |
 |---|---|---|---|
-| SURPLUS | Base | -$12.1k | -$157.4k |
-| PONS | Robinhood | -$47.0k | -$91.8k |
-| STATICS | Robinhood | 0 | -$45.4k |
+| AI | Robinhood | +$11.8k | -$181.9k |
+| DRV | Base | -$21.0k | -$169.1k |
+| SURPLUS | Base | -$1.4k | -$146.7k |
+| HOOKR | Robinhood | -$58.3k | -$67.7k |
+| GAGE | Robinhood | +$8.4k | -$47.9k |
+| STATICS | Robinhood | $0 | -$45.4k |
+| CASHCAT | Robinhood | -$41.5k | +$169.8k |
+| ORBIO | Robinhood | -$26.2k | -$5.8k |
 | XBOW | Robinhood | -$2.0k | -$15.4k |
-| NOCK | Base | 0 | -$11.0k |
-| LOBIN | Robinhood | -$0.4k | -$10.8k |
-| REI | Base | 0 | -$10.0k |
-| UP | Robinhood | +$3.6k | -$7.8k |
-| NOTE | Robinhood | 0 | -$6.8k |
-| ORBIO | Robinhood | -$32.0k | -$4.8k |
+| VRAX | Robinhood | -$3.0k | -$14.3k |
+| NOCK | Base | $0 | -$11.0k |
 
-**Changed since yesterday:** AERO flipped from +$20.0k 24h to $0 (that flow rolled out of the window; 7d/30d still +$36.5k/+$46.1k, price -3.4% after -10% yesterday). CASHCAT and SPCX dropped out of the 24h positives. PONS's 30d improved to -$91.8k from -$222.9k, but that is window roll-off, not new buying (1h +$7.5k, 24h +$4.6k). VVV unchanged.
+**Changed since yesterday:** SPCX is the new #1 and the first token positive on all three windows. AERO's 24h accumulation has fully rolled off ($0 now, 7d/30d still +$36.5k/+$46.1k). PONS left the 24h positives entirely. CASHCAT and SURPLUS flipped back to 24h positive.
 
-## 2. Attention & flows (CoinGecko onchain, 24h)
+## 2. Attention & flows (CoinGecko onchain, 24h, page 1 - CoinGecko's ordering, not a pure volume rank)
 
-**Base:** tokenized equities remain the volume core - NVDAc/USDC $15.9M (-4.5%), GOOGLc/USDC $11.8M (-2.8%). AERO/WETH $7.9M (-3.4%, 3038 buys vs 5164 sells), AERO/USDC $2.6M, xdp/USDC $9.5M (+1.8%), SOL/cbBTC $8.7M (-5.8%), ZRO/WETH $2.0M, TIBBIR/VIRTUAL $98k (+4.8%).
+**Base:** majors dominate - cbBTC/WETH $199.8M (Aero Slipstream, -4.5%), cbBTC/USDC $91.9M (Aero, -4.4%), WETH/USDC $91.6M (Pancake V3, -6.2%), cbBTC/WETH $71.2M (Pancake, -4.5%), WETH/USDC $63.7M (Aero, -6.2%). Tokenized equities: MSTRc/USDC $17.4M (-7.5%), SPCXc/USDC $12.8M (+1.3%). AERO/USDC $7.3M (-4.4%). xdp/USDC $11.3M (+3.7%). ELSA/USDC $1.3M (-10.2%, 9058 buys vs 9204 sells).
 
-**Robinhood Chain - the whole board is red:** PONS/USDG $3.7M (-15.4%), **FRONG/WETH $1.6M with +91.6% 24h and +13.9% in the last hour**, HOOKR/WETH $1.25M (-20.6% after -29.5% yesterday), CASHCAT/WETH $1.08M (-10.1%), ORBIO/USDG $0.75M (-14.9%), PRIORS/USDG $0.73M (-27.0%), PONS/WETH $309k, TIBBIR/WETH $192k (+8.9%). Other movers: POOLS/WETH +32.6%, TEXEL -27.0%.
-
-**Flag:** PONS/WPRL on Base (uniswap-v2) shows $157.4M volume on just 227 buys vs **5 sells**. That shape is wash-traded or a honeypot pool, not real flow; treat as an anomaly.
+**Robinhood Chain:** USDG/WETH core - USDG/WETH $182.9M (Uni V3, flat), WETH/USDG $73.9M (Aero Slipstream, -6.1%), $63.3M (Uni V4, -6.1%). Tokenized stocks: NVDA/WETH $9.6M (-1.9%), NVDA/USDG $5.4M (-1.9%), SPCX/WETH $2.1M (+0.5%), SPY/WETH $1.2M (-0.3%). Memecoins: PONS/USDG $4.4M (-11.9%). Movers: ANT/WETH $2.3M **+181% 24h but -39.9% last hour** (round-trip), SWJ/WETH $1.8M (-73.7%, 1-day-old pool), UNIWALL/WETH $158k with 4098 buys vs **7868 sells**.
 
 ## 3. Why
 
-**Base = tokenized equities, with fresh numbers.** Base tokenized stocks cleared **$5B cumulative DEX volume** by Nov 11 (cryptobriefing.com/base-tokenized-stocks-5-billion-dex-volume). Token Terminal put **weekly DEX volume for Coinbase-issued tokenized stocks on Base at ~$850M** as of Nov 13, mostly on Aerodrome (cryptobriefing.com/weekly-dex-volume-for-coinbase-issued-tokenized-stocks-on-base-reached-850m). Aero handled **$16.59B of Base's $30.32B 30-day DEX volume (~55%)** and ~$10.01M of fees in 30 days (thechainobserver.com/aero-generates-10m-in-fees-as-incentives-outpace-revenue).
-
-**Robinhood Chain = 24/7 stock tokens.** Tokenized stock tokens did **67.1% of volume in the 60 largest pools outside NYSE hours in Q3** (18.2% on weekends alone), and their share of network DEX volume rose from 2.6% in July to 15.6% in September (tokenpost.com/news/investing/54562). Network DEX volume peaked at $812.4M on Nov 5 and was $704.2M on Nov 9, split Uniswap V3 45.1% / V4 32.4% / Aero Slipstream 10.9% (robinswap.trade/news/robinhood-chain-weekly-recap-2026-11-09).
+**Tokenized equities is still the one live narrative, and it is cooling on Robinhood while Base sets records.**
+- Base tokenized stocks passed **$5B cumulative DEX volume**, with a record **>$180M** day, and B20 tokens >$7B; Base launched "Markets", bankr index tokens, Beefy single-stock vaults, Oku's TTWOc; Aave V4 stock-backed loans at $25M deposits and Morpho Midnight at $100M loans on Base (exchange.news 2026-11-14).
+- Robinhood onchain stock/ETF token volume **fell 22% to $116.07M** on the Nov-14 snapshot, aggregate tokenized mcap $154.5M (mempoolbrief 2026-11-15). Robinhood Chain still earned 80% of L2 fees in Q3, Stock Tokens 2.6%->15.6% of DEX volume Jul-Sep (alea research 2026-11-10).
+- Coinbase tokenized stocks ~$850M weekly Base DEX volume (tokenpost 2026-11-13).
 
 Per token:
-- **PONS** -15.4%; one smart trader DCA-buying $9.0k with WIF, but 30d -$91.8k and two other wallets trimmed. Mixed/late.
-- **HOOKR** -20.6% second down day; smart money bought $10k into it. Dip-buy vs breakdown - early, but could be averaging a loser.
-- **DRV** (Base) one wallet exited $21.0k; PONS/DRV family remains a distribution story.
-- **PRIORS** -27%; an insider-labelled wallet dumped $10.3k. Late/exit.
-- **AERO** venue thesis intact (55% of Base volume, $10.01M/30d fees, ~$850M weekly tokenized-stock volume) but smart money net flat this window and price -3.4%. Mid.
-- **FRONG** +91.6% on $1.6M with near-balanced buys/sells and no smart-money row - fresh attention spike, unverified name.
-- Reading: on Robinhood Chain pool buy/sell counts are near-balanced while prices fall 10-27% - retail distributing with the tape, smart money only nibbling. Risk-off backdrop (F&G 13).
+- **SPCX (Robinhood)** - the cleanest accumulation: +$19.5k/24h, +$42.9k/7d, +$43.4k/30d, 13 traders, tokenized-stock name. Mid.
+- **PIZZA (Robinhood)** - +$15.9k in a 30-min burst, mostly one wallet 0x39b011; $0.6M micro-cap, 18 days old. Early but unproven.
+- **HOOKR** - +$11.1k 24h (carried from yesterday's $10k buy) but -$58.3k/7d, -$67.7k/30d. Averaging-down risk.
+- **CASHCAT** - one $15.0k clip, 24h +$10.8k, but 7d -$41.5k. Choppy.
+- **SURPLUS (Base)** - +$10.7k 24h via one wallet, 30d -$146.7k. Nibble into distribution.
+- **PONS** - distribution: ~$19.6k sold by one smart trader, pool -11.9%. Late/exit.
+- **MSTR** - one smart trader sold $15.8k. Watch.
+- **AERO (Base)** - venue thesis intact (55%-ish of Base volume, +$36.5k/7d, +$46.1k/30d) but 24h flat and price -4.4%. Mid.
 
 ## 4. Actionable
 
-1. **HOOKR / Robinhood (early, speculative)** - $10k smart-money dip-buy in two 5,000 USDG clips into a -20.6% day, $824k liquidity. Risk: two-day breakdown; buyer may be averaging down.
-2. **AERO / Base (mid)** - the venue of the tokenized-equity narrative, 55% of Base DEX volume and $10.01M/30d fees, but smart money is flat here and the token is -3.4%.
-3. **Tokenized-equity complex / Base (NVDAc, GOOGLc)** - the narrative's volume core; watch pool volume as the thesis health signal.
-4. **UP / Robinhood (late/watch)** - one wallet DCA'd $4.95k over 15 clips, 24h +$4.8k but 30d -$7.8k.
-5. **Avoid/watch:** PRIORS (-27%, insider dump), DRV (Base, $21k exit), ORBIO (-14.9%, 7d -$32k), PONS (30d -$91.8k), FRONG/POOLS (unverified spikes), PONS/WPRL (wash-trade shape).
+1. **SPCX / Robinhood (mid, highest conviction)** - the only token positive on 24h/7d/30d (+$19.5k/+$42.9k/+$43.4k), 13 traders, tokenized-stock narrative. Risk: Robinhood stock-token volume -22% day over day.
+2. **Tokenized-stock complex / Base + Robinhood (mid)** - NVDA/SPY/SPCX pools are the narrative's volume core; Base records, Robinhood cooling. Watch pool volume as the health signal.
+3. **AERO / Base (mid)** - venue + 7d/30d net positive, 24h flat, price -4.4%.
+4. **CASHCAT / Robinhood (early, speculative)** - +$10.8k 24h, single $15.0k buy, 30d +$169.8k vs 7d -$41.5k.
+5. **HOOKR / Robinhood (early, speculative)** - repeat $10k+ dip-buy into a multi-week distribution.
 
-**Emerging narrative:** nothing new - tokenized equities on Base and Robinhood Chain is still the one live narrative; agentic finance / x402 on Base is adjacent but shows no smart-money row today.
+**Emerging narrative:** stock-token *credit* - Aave V4 stock-backed loans ($25M) and Morpho Midnight ($100M) on Base - is the freshest thread around tokenized equities ("buy, borrow, don't sell"). No smart-money token row for those venues yet.
 
-**Warnings:** absolute smart-money dollars are tiny (max $4.8k 24h) - directional only; the 24h seller ranking is still not retrievable, so the sold side is inferred from 7d/30d plus a partial (~10.5h) trade tape; token, pool and Nansen label names are unverified and can be written by anyone.
+**Warnings:** absolute smart-money dollars are tiny (top $19.5k) - directional only. The 24h seller ranking is still not retrievable, so the sold side is inferred from 7d/30d plus a partial ~9h trade tape. Much of today's "accumulation" is one wallet across four tokens. Names/labels are unverified and can be written by anyone. ANT (+181%/-39.9% 1h), SWJ (-73.7%, 1-day pool) and UNIWALL (4098 buys vs 7868 sells) are not real flow.
 
-**Allowance:** 2% of the 5-hour, 1% of the week and month free windows used - under the 75% caution line. Resets 12:51 UTC today, 2026-11-20 and 2026-12-13. Nansen data was used, so those lookups are shared with Nansen; Flovia keeps lookup request text and purposes for up to 2 years during the alpha.
+**Allowance:** 5-hour 1% used (resets 13:17 UTC today), week 2% (resets 2026-11-20), month 1% (2026-12-13) - under the 75% line. Nansen data was used, so those lookups are shared with Nansen; Flovia keeps lookup request text and purposes up to 2 years during the alpha.
 
-**Suggested next steps** (text only, nothing executed): recent flows for HOOKR or PONS; who bought or sold one of them; a token's price and market cap now (no charge); re-run the Exa search limited to official sites.
+**Suggested next steps** (text only, nothing executed): recent flows for SPCX or PIZZA; who bought or sold CASHCAT; a token's price and market cap now (no charge).

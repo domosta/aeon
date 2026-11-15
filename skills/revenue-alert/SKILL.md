@@ -1,6 +1,6 @@
 ---
 name: revenue-alert
-description: Alert on unusual protocol revenue changes on Base and Robinhood Chain using DefiLlama.
+description: Alert on unusual protocol revenue changes on Base, Ethereum and Robinhood Chain using DefiLlama.
 ---
 
 # Revenue Alert
@@ -11,6 +11,7 @@ You are monitoring protocol revenue on Base and Robinhood Chain.
 1. Fetch the latest fees/revenue data from DefiLlama:
    - https://api.llama.fi/overview/fees/base
    - https://api.llama.fi/overview/fees/robinhood
+   - https://api.llama.fi/overview/fees/ethereum
 
 2. Compare 24h revenue (or fees) to the previous day / recent average.
 
@@ -28,4 +29,4 @@ You are monitoring protocol revenue on Base and Robinhood Chain.
 
 5. If nothing significant happened, send a short "No unusual revenue changes" message.
 
-Keep the output concise and actionable. Use Discord formatting if helpful.
+Keep the output concise and actionable. Use Discord formatting if helpful. Also inform me if there is an interesting newcomer. Also track the launchpads older ones and the new ones.

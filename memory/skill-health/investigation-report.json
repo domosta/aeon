@@ -1,0 +1,17 @@
+{
+  "skill": "investigation-report",
+  "last_analyzed": "2026-11-15T08:24:53Z",
+  "quality_score": 4,
+  "assessment": "Substantive, well-structured six-check report whose hard facts check out independently (pool is WETH/ZFI 1% with $257k reserve, token name/symbol/supply/price/mcap/vol, OFT sharedDecimals=6, ~12.5KB non-proxy bytecode, owner = Gnosis Safe v1.4.1 3-of-5, verified ZyfaiOFT source, no mint/pause selectors, WETH side 36.96 ETH, pool holding 8.6% of supply), correctly hedges unknowns (V3 LP custody, no key so no static source pass, cross-chain supply non-reconciliation), and the only soft spots are the holder-count figure (1,535 vs Basescan's 6,397) and the unconfirmed 'Sherlock + Cecuro' audit mention.",
+  "flags": [],
+  "avg_score": 4,
+  "history": [
+    {
+      "date": "2026-11-15",
+      "score": 4,
+      "ts": "2026-11-15T08:24:53Z",
+      "harness": "pi",
+      "model": "openrouter/deepseek/deepseek-v4.1-flash"
+    }
+  ]
+}

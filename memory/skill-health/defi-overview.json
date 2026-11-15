@@ -1,10 +1,10 @@
 {
   "skill": "defi-overview",
-  "last_analyzed": "2026-11-14T16:45:36Z",
-  "quality_score": 5,
-  "assessment": "Complete, well-structured DeFi read whose specific figures I independently verified against live DefiLlama/CoinGecko/F&G/Polymarket as of the run date — TVL $72.94B, DEX vol $9.96B +22%, stables $287.7B, BTC $65,450, F&G 13 (yday 20), global mcap -7.2%, and the Dec-2026 Fed-hike-25bp market at exactly 0.875 all match; includes regime verdict, movers with catalysts, sustainable-vs-incentive yield split, fees fundamentals, and breadth, with sources logged.",
+  "last_analyzed": "2026-11-15T15:56:07Z",
+  "quality_score": 4,
+  "assessment": "Complete, well-structured one-pass DeFi overview covering TVL, chains, movers with catalysts, fees, DEX vol, stables, real vs incentive yields, macro, breadth, F&G and prediction markets, with a clear regime take and source-status line.",
   "flags": [],
-  "avg_score": 4.67,
+  "avg_score": 4.5,
   "history": [
     {
       "date": "2026-11-14",
@@ -24,6 +24,13 @@
       "date": "2026-11-14",
       "score": 5,
       "ts": "2026-11-14T16:45:36Z",
+      "harness": "pi",
+      "model": "openrouter/deepseek/deepseek-v4.1-flash"
+    },
+    {
+      "date": "2026-11-15",
+      "score": 4,
+      "ts": "2026-11-15T15:56:07Z",
       "harness": "pi",
       "model": "openrouter/deepseek/deepseek-v4.1-flash"
     }

@@ -108,7 +108,7 @@ skills:
   pm-manipulation: { enabled: false, schedule: "15 13 * * *" } # daily — flag suspected PM manipulation from 3-day price/volume/comment + local-press anomalies
 
   # Research & content
-  narrative-convergence: { enabled: false, schedule: "0 13 * * *", var: "" } # daily 13:00 UTC — cross-skill convergence detector: entities/themes surfaced by 3+ independent skill categories in 48h = high-confidence write opportunities. Category map in memory/topics/signal-categories.md. Pass var to filter.
+  narrative-convergence: { enabled: true, schedule: "0 13 * * *", var: "" } # daily 13:00 UTC — cross-skill convergence detector: entities/themes surfaced by 3+ independent skill categories in 48h = high-confidence write opportunities. Category map in memory/topics/signal-categories.md. Pass var to filter.
 
   # Security
   vuln-tracker: { enabled: false, schedule: "30 16 * * *", var: "" } # daily lifecycle poll: vuln-scanner PR/advisory status + PVR triage + disclosure-queue aging (folds in pvr-triage/disclosure-tracker). var: empty=full | pvr | queue | prs | <GHSA-id>

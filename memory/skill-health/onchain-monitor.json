@@ -1,8 +1,8 @@
 {
   "skill": "onchain-monitor",
-  "last_analyzed": "2026-11-14T16:43:59Z",
+  "last_analyzed": "2026-11-15T15:53:12Z",
   "quality_score": 3,
-  "assessment": "Accurate, self-consistent no-op report: the watch file is genuinely absent, the 2-day force-reply dedup is correctly honored against the earlier same-day log entry, and no alert was wrongly sent — an adequate completed run of a monitor with nothing configured, though it delivers no actual chain analysis.",
+  "assessment": "Correct, verifiable clean no-op for an unconfigured watchlist — accurately diagnoses missing memory/on-chain-watches.yml, honors the 2-day force-reply dedup (verified: prompt logged 2026-11-14, queued d9060020), sends no alert per spec, and gives usable setup guidance; no monitoring occurred only because none is configured.",
   "flags": [],
   "avg_score": 3,
   "history": [
@@ -17,6 +17,13 @@
       "date": "2026-11-14",
       "score": 3,
       "ts": "2026-11-14T16:43:59Z",
+      "harness": "pi",
+      "model": "openrouter/deepseek/deepseek-v4.1-flash"
+    },
+    {
+      "date": "2026-11-15",
+      "score": 3,
+      "ts": "2026-11-15T15:53:12Z",
       "harness": "pi",
       "model": "openrouter/deepseek/deepseek-v4.1-flash"
     }

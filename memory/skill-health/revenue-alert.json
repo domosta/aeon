@@ -1,10 +1,10 @@
 {
   "skill": "revenue-alert",
-  "last_analyzed": "2026-11-14T10:16:08Z",
+  "last_analyzed": "2026-11-15T08:27:34Z",
   "quality_score": 5,
-  "assessment": "Verified against live DefiLlama data — chain totals, deltas, and protocol spikes match, with genuinely insightful pass-through-vs-revenue analysis and clear watch criteria.",
+  "assessment": "Every headline figure independently reproduces against the live DefiLlama API (Base fees $4.65M/+40.1%, chain revenue $724.7k/+2.2%, CoWSwap $18.4k/+382%, Moonwell +112%, GeckoTerminal +436%, 1inch Aqua +951%, Robinhood Chain rev -4.4%), and the pass-through vs protocol-take diagnosis plus liquidation/Extreme Fear context is genuinely insightful and correctly caveated.",
   "flags": [],
-  "avg_score": 4.5,
+  "avg_score": 4.67,
   "history": [
     {
       "date": "2026-11-13",
@@ -17,6 +17,13 @@
       "date": "2026-11-14",
       "score": 5,
       "ts": "2026-11-14T10:16:08Z",
+      "harness": "pi",
+      "model": "openrouter/deepseek/deepseek-v4.1-flash"
+    },
+    {
+      "date": "2026-11-15",
+      "score": 5,
+      "ts": "2026-11-15T08:27:34Z",
       "harness": "pi",
       "model": "openrouter/deepseek/deepseek-v4.1-flash"
     }

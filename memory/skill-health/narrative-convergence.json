@@ -1,0 +1,17 @@
+{
+  "skill": "narrative-convergence",
+  "last_analyzed": "2026-11-15T08:42:47Z",
+  "quality_score": 4,
+  "assessment": "Compact, well-structured convergence report with five cross-category signals; counts and key figures match the underlying memory artifact and logs, though the final output gives only category counts and points to the full breakdown rather than naming sources inline.",
+  "flags": [],
+  "avg_score": 4,
+  "history": [
+    {
+      "date": "2026-11-15",
+      "score": 4,
+      "ts": "2026-11-15T08:42:47Z",
+      "harness": "pi",
+      "model": "openrouter/deepseek/deepseek-v4.1-flash"
+    }
+  ]
+}

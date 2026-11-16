@@ -1,10 +1,10 @@
 {
   "skill": "flovia",
-  "last_analyzed": "2026-11-15T08:27:12Z",
+  "last_analyzed": "2026-11-16T07:56:35Z",
   "quality_score": 5,
-  "assessment": "A substantive, well-structured daily smart-money report whose every figure traces to named Nansen/CoinGecko/Exa sources, honestly flags its own gaps (truncated tape, one-wallet concentration, unverified labels, non-retrievable seller ranking), and continues yesterday's run coherently (20→21 positive tokens, top +$4.8k→+$19.5k), matching the persisted chain artifact and prior log.",
+  "assessment": "A substantive, well-sourced daily smart-money report: every figure is attributed to a named Nansen/CoinGecko/Exa source, the run continues yesterday's persisted baseline coherently (SPCX/PIZZA/GAGE rotating off, CASHCAT 20→21 traders, $39.1M→$44.2M cap), and it self-flags its real gaps — truncated 8h trade tape, missing 24h seller ranking, thin absolute dollars, probable wash volume on MOW/WETH, and unverified user-writable token labels — while still converting the data into five ranked, risk-qualified setups and an explicit divergence call (DRV).",
   "flags": [],
-  "avg_score": 4.75,
+  "avg_score": 4.8,
   "history": [
     {
       "date": "2026-11-13",
@@ -31,6 +31,13 @@
       "date": "2026-11-15",
       "score": 5,
       "ts": "2026-11-15T08:27:12Z",
+      "harness": "pi",
+      "model": "openrouter/deepseek/deepseek-v4.1-flash"
+    },
+    {
+      "date": "2026-11-16",
+      "score": 5,
+      "ts": "2026-11-16T07:56:35Z",
       "harness": "pi",
       "model": "openrouter/deepseek/deepseek-v4.1-flash"
     }

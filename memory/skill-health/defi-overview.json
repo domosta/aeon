@@ -1,10 +1,10 @@
 {
   "skill": "defi-overview",
-  "last_analyzed": "2026-11-15T15:56:07Z",
-  "quality_score": 4,
-  "assessment": "Complete, well-structured one-pass DeFi overview covering TVL, chains, movers with catalysts, fees, DEX vol, stables, real vs incentive yields, macro, breadth, F&G and prediction markets, with a clear regime take and source-status line.",
+  "last_analyzed": "2026-11-16T18:28:57Z",
+  "quality_score": 5,
+  "assessment": "Comprehensive, well-structured DeFi read whose every figure (TVL $71.5B, chain split, fees leaders, DEX $8.9B, stables $287.0B, mover TVLs, yields, F&G 10, BTC/ETH prices) matches live DefiLlama/CoinGecko/Alternative.me data; adds a real regime take and sustainable-vs-incentive yield split.",
   "flags": [],
-  "avg_score": 4.5,
+  "avg_score": 4.6,
   "history": [
     {
       "date": "2026-11-14",
@@ -31,6 +31,13 @@
       "date": "2026-11-15",
       "score": 4,
       "ts": "2026-11-15T15:56:07Z",
+      "harness": "pi",
+      "model": "openrouter/deepseek/deepseek-v4.1-flash"
+    },
+    {
+      "date": "2026-11-16",
+      "score": 5,
+      "ts": "2026-11-16T18:28:57Z",
       "harness": "pi",
       "model": "openrouter/deepseek/deepseek-v4.1-flash"
     }

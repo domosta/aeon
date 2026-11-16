@@ -1,41 +1,39 @@
-ℹ️ DeFi Overview - 2026-11-15
+ℹ️ DeFi Overview 2026-11-16
 
-*Crypto - 2026-11-15* - risk-off (conviction high) | DeFi Mixed: TVL −3.5% but DEX vol +8% on capitulation churn
+*Crypto - 2026-11-16* - chop (conviction low) | DeFi Mixed: TVL +1.6% while DEX volume cools −18%, stables flat
 
-*TVL:* $71.9B (−3.5% 24h, −11.3% 7d)
+*TVL:* $71.5B (+1.6% 24h, −9.5% 7d)
 
 *Top chains*
-1. Ethereum - $37.98B (−2.9%)
-2. Base - $5.19B (−4.8%)
-3. Solana - $4.74B (−2.8%)
+1. Ethereum - $37.7B (+1.8%)
+2. Base - $5.1B (+1.7%)
+3. Solana - $4.7B (+1.2%)
 
 *Movers*
-↓ Tron −8.2% ($4.40B) - no obvious catalyst
-↓ Hyperliquid L1 −5.3% ($2.19B) - no obvious catalyst
-↑ Derive V3 Options +11.3% ($0.17B) - DRV trending +8%, no confirmed catalyst
-↓ Marinade Native −15.3% ($0.20B) - Solana staking outflow with SOL −3.5% 24h
+↑ Tydro +75% ($0.10B → $0.18B) - no obvious catalyst
+↓ Dolomite −14% ($0.13B → $0.11B) - no obvious catalyst
 
 *Fees leaders (24h)*
-1. Tether - $17.0M (1.01× 7d avg)
-2. Circle USDC - $6.75M (1.00×)
-3. Hyperliquid Perps - $4.69M (+11% 1d, 1.42× 7d avg)
+1. Tether - $17.0M (+2.6% 7d)
+2. Circle USDC - $6.8M (+1.5% 7d)
+3. Polymarket US - $4.2M (+19% 1d, −10% 7d)
 
 *Fees beating TVL (7d)*
-• Morpho Blue - fees +75.9% / TVL −7.9% - lending demand outrunning deposits
-• Jupiter Perps - fees +96.7% / TVL −11.9% - perp volume rising into the selloff
+• Hyperliquid Perps - fees +70% (TVL n/a for perps) - demand outrunning deposits
+• NEAR Intents - fees +91% / TVL −12% (7d) - demand outrunning deposits
 
-*DEX vol (24h):* $10.82B (+8.3%)  top: Uniswap V3 $1.88B (+20%), Uniswap V4 $1.18B (+25%), PancakeSwap $1.07B (+3%)
+*DEX vol (24h):* $8.9B (−18%)  top: Uniswap V3 $1.02B, Aero Slipstream $0.79B, PancakeSwap AMM V3 $0.78B
 
-*Stables:* $289.4B (+0.6%)  - USDC +2.5% the only notable single-issuer move
+*Stables:* $287.0B (−0.2%)  - PYUSD −9.9% the only large single-issuer move
 
-*Real yield (sustainable, apyBase, no IL, ≥$100M)*
-• Sky STUSDS (Ethereum) - 13.6% apyBase ($162M TVL)
-• Apyx APXUSD (Ethereum) - 13.3% apyBase ($134M TVL)
-• Onre ONYC (Solana) - 11.0% apyBase ($276M TVL)
+*Real yield (sustainable, ≥$10M, filtered)*
+• Axis SUSDX (Ethereum, stable) - 13.9% apyBase ($58M TVL)
+• Sky stUSDS (Ethereum, stable) - 13.9% apyBase ($162M TVL)
+• apyx APXUSD (Ethereum, stable) - 13.3% apyBase ($133M TVL)
 
 *Incentive yield (points / emissions, ≥$25M)*
-• Convex CVXCRV - 20.1% apy via $CRV/$CVX/$FRAX rewards ($31M TVL)
-• Morpho BBQUSDG (Arbitrum) - 8.4% apy, 4.5% via $ARB rewards ($80M TVL)
+• Convex CVXCRV (Ethereum) - 20.8% apy via $CRV/$CVX rewards ($29M TVL)
+• Morpho SENPYUSDPRIMEV2 (Ethereum) - 13.2% apy (10.8% base + $PYUSD rewards, $176M TVL)
 
-*Macro:* BTC $64,676 (−1.4%) / ETH $1,806 (−1.6%) · F&G 10 (Extreme Fear, was 13) · breadth 5/20 · hot market: "Fed +25bp in Dec" YES 86.5%
+*Macro:* BTC $64,831 (+0.2%) / ETH $1,816 (+0.0%) · F&G 10 (Extreme Fear) · breadth 12/20 · hot market: "Fed hikes 25bp in Dec" YES 88.5%
 _sources: llama_tvl=ok llama_dex=ok llama_fees=ok llama_stables=ok llama_yields=ok coingecko=ok fng=ok polymarket=ok websearch=ok | var: none_

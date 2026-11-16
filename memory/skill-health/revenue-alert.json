@@ -1,10 +1,10 @@
 {
   "skill": "revenue-alert",
-  "last_analyzed": "2026-11-15T08:27:34Z",
+  "last_analyzed": "2026-11-16T07:58:28Z",
   "quality_score": 5,
-  "assessment": "Every headline figure independently reproduces against the live DefiLlama API (Base fees $4.65M/+40.1%, chain revenue $724.7k/+2.2%, CoWSwap $18.4k/+382%, Moonwell +112%, GeckoTerminal +436%, 1inch Aqua +951%, Robinhood Chain rev -4.4%), and the pass-through vs protocol-take diagnosis plus liquidation/Extreme Fear context is genuinely insightful and correctly caveated.",
+  "assessment": "Highly specific revenue alert whose figures, chain totals, and per-protocol deltas I spot-checked against the live DefiLlama API and they matched exactly (Veranta $210.7k +191%, Base $705.0k, ETH $1.795M −42.8%, Robinhood $255.3k, LI.FI +184%, Titan Builder −91%), with genuine insight on take-rate shifts, the ex-Veranta Base decline, and builder-driven ETH noise plus an actionable watch list.",
   "flags": [],
-  "avg_score": 4.67,
+  "avg_score": 4.75,
   "history": [
     {
       "date": "2026-11-13",
@@ -24,6 +24,13 @@
       "date": "2026-11-15",
       "score": 5,
       "ts": "2026-11-15T08:27:34Z",
+      "harness": "pi",
+      "model": "openrouter/deepseek/deepseek-v4.1-flash"
+    },
+    {
+      "date": "2026-11-16",
+      "score": 5,
+      "ts": "2026-11-16T07:58:28Z",
       "harness": "pi",
       "model": "openrouter/deepseek/deepseek-v4.1-flash"
     }

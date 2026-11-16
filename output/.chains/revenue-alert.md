@@ -1,50 +1,67 @@
-⚠️ Revenue alert - Base fees +40% (lending pass-through), CoWSwap rev +382%
+⚠️ Revenue alert - Veranta +191% on Base (chain #1)
 
-# Base + Robinhood Chain - revenue alerts (2026-11-15)
+🔴 **Revenue alert - Veranta +191% on Base (now the chain's #1 revenue protocol)**
 
-Read 2026-11-15 ~08:30 UTC via DefiLlama `/overview/fees/{chain}` (fees view + `?dataType=dailyRevenue`), 24h vs prior 24h (`total24h` vs `total48hto24h`).
+DefiLlama fees/revenue, read 2026-11-16 ~07:55 UTC. 24h vs prior 24h.
 
-## 🟡 Base fees spike again - but it's still lending pass-through
+## Veranta (Base) - revenue +191%
 
-Base **fees** $3.32M → **$4.65M (+40.1%)**, 1.72× the 7d avg ($2.70M). Base **protocol revenue** $709.2k → **$724.7k (+2.2%)**, 0.90× 7d avg - flat.
-
-| Protocol | 24h fees | Prev | Chg | 7d avg | Revenue |
+| | 24h | prev 24h | chg | 7d avg | × avg |
 |---|---|---|---|---|---|
-| Morpho Blue | $2.79M | $1.63M | **+71%** (Δ+$1.16M) | 2.46× | **$0** |
-| Aave V3 | $94.2k | $79.5k | +19% | 1.7× | $11.9k (+26%) |
-| Moonwell Lending | $21.7k | $11.0k | +98% | 2.7× | $6.1k (+112%) |
+| Revenue | **$210.7k** | $72.4k | **+191%** (Δ+$138.3k) | $55.4k | **3.8×** |
+| Fees | $255.5k | $112.9k | +126% | $95.1k | 2.7× |
 
-Morpho Blue alone drove the whole chain move, and its protocol revenue is **$0** - pass-through, not take. This is day 2 of the same pattern: yesterday's +71% Base fee burst persisted and grew, so the watch item resolves as **"repeated pass-through, no chain-level conversion"** (exception: Moonwell's small revenue line did convert). Given market context (BTC −13.6% 7d, ETH −18.2% 7d, Extreme Fear), the lending fee surge is most likely **liquidation/refinancing activity**, not organic growth.
+- Ramp, not a one-off: $5.8k (Nov 8) → $59.7k (13th) → $72.4k (14th) → **$210.7k**. ~36× in 8 days; 40% of its 30d revenue ($522k) landed yesterday.
+- It is now the **largest revenue line on Base**, ahead of Aero Slipstream ($191.6k) - a first.
+- Take-rate moved too: revenue/fees 33% → 64% → **83%** across three days. That is a fee-split shift on top of volume growth, not volume alone.
+- Why it's actionable: Veranta is RWA/LST-style perps (crypto, equities, FX, metals, energy, 24/5), TVL ~$10.6M, ~83k users, and per its site protocol fees fund **$AVNT open-market buybacks + burns**. An extra ~$138k/day of revenue is direct buy pressure.
 
-## Revenue alerts ≥50% (Base)
+## Chain level
 
-| Protocol | 24h rev | Prev | Chg | Δ | ×  7d avg |
+| Chain | Revenue 24h | vs prev | × 7d avg | Fees 24h | vs prev |
 |---|---|---|---|---|---|
-| **CoWSwap** | **$18.4k** | $3.8k | **+382%** | +$14.6k | **3.0×** |
-| **Moonwell Lending** | $6.1k | $2.9k | **+112%** | +$3.2k | 3.1× |
-| Trust Wallet Wallet | $4.5k | $2.1k | +117% | +$2.4k | 2.2× |
-| Snuggle | $3.1k | $1.2k | +157% | +$1.9k | 1.9× |
-| GeckoTerminal | $3.2k | $0.6k | +436% | +$2.6k | 1.2× |
-| MetaMask Wallet | $2.9k | $1.4k | +103% | +$1.5k | 1.6× |
-| Virtuals Protocol | $2.0k | $0.8k | +136% | +$1.1k | 2.6× |
+| Base | $705.0k | −2.7% | 0.91× | $2.40M | **−48.4%** |
+| Robinhood | $255.3k | −19.8% | 0.81× | $917.5k | −22.2% |
+| Ethereum | $1.795M | −42.8% | 0.77× | $10.58M | −10.5% |
 
-**CoWSwap** is the standout: a DEX aggregator's take jumped 5× off a very low prior day to $18.4k, 3× its 7d avg - the largest same-wallet-visible revenue jump on Base today. Worth a look if it repeats: aggregator revenue spikes usually mean either a routing/settlement burst or a fee-parameter change. Other movers are sub-$5k noise.
+**Base revenue only looks flat because of Veranta.** Strip its +$138k and every other major line fell: Aero Slipstream −$86k, Base take −$78k, Uniswap V3 −$51k, deBridge −$21k, CoWSwap −$16k.
 
-Largest absolute Base revenue lines were quiet/normal: Aero Slipstream $277.8k (−7.9%), Base chain take $180.2k (+30%), Uniswap V3 $119.2k (+28%), Veranta $72.4k (+21%).
+**The lending fee burst is over.** Base fees −48%: Morpho Blue $2.92M → $307k (−89%), Aave V3 −58%, Uniswap V3 −49%, CoWSwap −77%, Aero Slipstream −32%. The 3-day pass-through never converted to chain revenue (yesterday's watch item: resolved, no conversion). CoWSwap did **not** repeat (−88%, $18.4k → $2.2k).
 
-## Robinhood Chain - nothing meaningful
+**Ethereum's −43% is a builder artifact**, not a broad decline: Titan Builder $1.111M → $99.2k (−91%, Δ−$1.01M) of the −$1.34M chain delta. That line swings $50k-$1.1M day to day. Ex-builder ETH revenue is ~−16%.
 
-Chain-level **revenue $333.2k → $318.7k (−4.4%)** (0.99× 7d avg) and **fees $1.27M → $1.18M (−7.1%)**. Biggest lines flat: Lighter Perps $82.3k (+13%), Arcus Perps $61.2k (−7%), Uniswap V3 $29.4k (−15%), The Standard Reserve $25.3k (−40%).
+Real ETH movers: **LI.FI Bridge Aggregator** rev $7.2k → $20.6k (+184%), fees $43.6k → $116.5k (+167%) - see newcomers. Kelp fees +365% to $144k. Railgun rev +76% to $18.7k. Rocket Pool fees $20.1k → $1.23M but **revenue $0** and identical $1.21M/$1.23M prints two days running → methodology/wiring change, not activity.
 
-Only ≥50% revenue move of note:
+**Robinhood: nothing.** No revenue increase ≥50% on any material base. Lighter Perps $79.7k (−3%), Arcus Perps $37.3k (−39%), Aero Slipstream $24.5k (−8%), Uniswap V3 $20.7k (+7%), Standard Reserve $17.6k (−51%).
 
-| Protocol | 24h rev | Prev | Chg | Δ | × 7d avg |
-|---|---|---|---|---|---|
-| 1inch Aqua | $2.9k | $0.3k | **+951%** | +$2.6k | **5.0×** |
-| StonkBrokers Card Wall | $3.6k | $2.0k | +76% | +$1.5k | 1.2× |
-| Virtuals Protocol | $0.6k | $0.3k | +136% | +$0.3k | 2.4× |
+## Launchpads
 
-1inch Aqua is ramping from a near-zero base (fees +831% to $11.7k) - a new-listing curve, not a spike. Too small to act on.
+| Protocol | Chain | 24h rev | prev | chg | × 7d avg | 30d rev |
+|---|---|---|---|---|---|---|
+| Pons V2 | Robinhood | $12.8k | $15.2k | −16% | 0.67× | $1.14M |
+| Pons V1 | Robinhood | $1.1k | $1.1k | +2% | 0.66× | $58.6k |
+| clanker | Base | $2.2k | $0.5k | +332% | 0.65× | $61.4k |
+| Binance Alpha | Base | $151 | $472 | −68% | 0.40× | $18.4k |
+| Umia | Base | $745 | $2.5k | −70% | 0.49× | $47.2k |
+| o1 Launchpad | Base | $439 | $881 | −50% | 0.34× | $110.4k |
+| Flap sh | Robinhood | $217 | $113 | +92% | 1.3× | $17.6k |
+| Binance Alpha | ETH | $996 | $3.3k | −69% | 0.60× | $76.3k |
+| Stockereum | ETH | $875 | $5.0k | −82% | 0.30× | $98.3k |
+| Printr | Base | $25 | $0 | new | - | $27 total |
 
-## Watch
-Whether the Base lending fee burst keeps compounding a third day and whether any of it reaches protocol revenue at the chain level. CoWSwap follow-up if it repeats.
+- **Old guard is decaying everywhere.** Pons V2 is still ~74% of all tracked launchpad revenue but has fallen $43.7k → $12.8k (−71%) in 9 days; o1 Launchpad is at 12% of its 30d pace; Umia/Stockereum/Binance Alpha all −68% to −82%.
+- **clanker's +332% is a bounce off a $506 trough**, not a breakout - still 0.65× its 7d avg, and its daily series is choppy ($219-$12.8k).
+- **No new launchpad has broken out.** Printr (Base, 2 days, $27 lifetime) and GlazeCorp ($2.4k lifetime, Robinhood) are the only new lines with any revenue; hood/rh.fun, bow.fun, HoodMint, ArrowPad, flaunch and ~40 others print ~$0. Launchpad revenue is concentrating into decline, not rotating into a successor.
+
+## Newcomers
+
+- **LI.FI Bridge Aggregator** - new DefiLlama line from Nov 14: revenue $10.9k → $24.5k → $28.7k/day (fees $59.5k → $140.7k). 72% is attributed to Ethereum today. Only 3 data points, so treat the +184% as a listing/ramp curve, not an organic spike - but it is the fastest-growing *new* revenue line on the board.
+- **Aero Basic** (Aerodrome's new basic-AMM product, listed Oct 20): $47.8M TVL, $14.3k/day revenue, $323k in 30d, 0.96× its avg - a real line now, quietly cannibalising Aero V1 ($1.6k) and taking volume from Slipstream.
+- **Hookr** (Robinhood Chain, listed Nov 15 18:27 UTC, $15.2k TVL, liquidity automation) and **Paboxo** (Robinhood lending, Nov 14, $4.9k TVL) - day-1, no revenue yet, below tracking threshold.
+- Nothing else from the Nov 4-11 listing wave (HedgeHood, Kyte, Flowlex, Gully, PeddleSwap, Indexfy, Privacy Pools V2, Pendle Loop $34.2M TVL, DeltaUSD $198k) has reported revenue.
+
+## Watch next run
+1. Veranta: does $200k+/day hold, and does the 83% take-rate persist (fee-split change vs mix)?
+2. Base ex-Veranta revenue: does the broad −20%+ slide continue, or was it the burst unwinding?
+3. LI.FI Bridge Aggregator day 4-5: organic or reclassified DEX-aggregator volume?
+4. Robinhood: Arcus Perps (−39%) and Standard Reserve (−51%) slide.

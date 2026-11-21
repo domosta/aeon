@@ -1,10 +1,10 @@
 {
   "skill": "revenue-alert",
-  "last_analyzed": "2026-11-16T07:58:28Z",
+  "last_analyzed": "2026-11-21T07:05:42Z",
   "quality_score": 5,
-  "assessment": "Highly specific revenue alert whose figures, chain totals, and per-protocol deltas I spot-checked against the live DefiLlama API and they matched exactly (Veranta $210.7k +191%, Base $705.0k, ETH $1.795M −42.8%, Robinhood $255.3k, LI.FI +184%, Titan Builder −91%), with genuine insight on take-rate shifts, the ex-Veranta Base decline, and builder-driven ETH noise plus an actionable watch list.",
+  "assessment": "Accurate, fully verifiable DefiLlama revenue alert across ETH/Base/Robinhood Chain with change %, context and a market-beta-vs-idiosyncratic verdict; figures spot-checked against live API and all match.",
   "flags": [],
-  "avg_score": 4.75,
+  "avg_score": 4.8,
   "history": [
     {
       "date": "2026-11-13",
@@ -31,6 +31,13 @@
       "date": "2026-11-16",
       "score": 5,
       "ts": "2026-11-16T07:58:28Z",
+      "harness": "pi",
+      "model": "openrouter/deepseek/deepseek-v4.1-flash"
+    },
+    {
+      "date": "2026-11-21",
+      "score": 5,
+      "ts": "2026-11-21T07:05:42Z",
       "harness": "pi",
       "model": "openrouter/deepseek/deepseek-v4.1-flash"
     }

@@ -1,8 +1,8 @@
 {
   "skill": "onchain-monitor",
-  "last_analyzed": "2026-11-16T18:27:24Z",
+  "last_analyzed": "2026-11-21T07:12:06Z",
   "quality_score": 3,
-  "assessment": "Handled the empty-watchlist state correctly with a clear next-step prompt, but produced no monitoring results or analysis beyond the empty-state message.",
+  "assessment": "Correctly handled the empty-watchlist path with the skill's designed force-reply prompt to add a first address; a legitimate no-op, but nothing substantive to verify.",
   "flags": [],
   "avg_score": 3,
   "history": [
@@ -31,6 +31,13 @@
       "date": "2026-11-16",
       "score": 3,
       "ts": "2026-11-16T18:27:24Z",
+      "harness": "pi",
+      "model": "openrouter/deepseek/deepseek-v4.1-flash"
+    },
+    {
+      "date": "2026-11-21",
+      "score": 3,
+      "ts": "2026-11-21T07:12:06Z",
       "harness": "pi",
       "model": "openrouter/deepseek/deepseek-v4.1-flash"
     }

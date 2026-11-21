@@ -1,67 +1,66 @@
-# Market Context (as of 2026-11-16)
+# Market Context (as of 2026-11-21)
 
-> **Take:** chop - BTC +0.2% to $64,831 after a weekend washout to ~$62k (lowest since July); breadth recovered to 12/20 green but F&G is pinned at 10 (Extreme Fear) and DEX volume fell 18% to $8.9B. Conviction: low.
+> **Take:** capitulation - BTC −6.5% to $57,831 (lowest since Sept 2024) with 2/20 majors green and $2.4B liquidated (92% longs). Conviction: high.
 
 ## Signal Snapshot
-- BTC $64,831 (+0.2% 24h, −13.6% 7d) · dominance 58.6% (−0.8 pp 24h)
-- ETH $1,816.04 (+0.0% 24h, −14.7% 7d) · ETH/BTC 0.0280
-- SOL $71.30 (+0.1% 24h, −18.2% 7d)
-- Total mcap $2.220T (−1.0% 24h) · DEX vol $8.9B 24h
-- Breadth: 12/20 green 24h · 2/20 green 7d
-- Fear & Greed: 10 (Extreme Fear) - yesterday 10
+- BTC $57,831 (±−6.5% 24h, −13.8% 7d) · dominance 57.5% (−1.1 pp vs Nov 16)
+- ETH $1,633.4 (−6.4% 24h, −14.0% 7d) · ETH/BTC 0.0282
+- SOL $68.02 (−6.4% 24h, −10.2% 7d)
+- Total mcap $2.033T (−8.2% 24h) · DEX vol $10.88B 24h (+25.8% 1d)
+- Breadth: 2/20 green 24h · 1/20 green 7d
+- Fear & Greed: 12 (Extreme Fear) - yesterday 12
 
 ## What Changed Since Last Refresh
-- Regime label flipped risk-off → chop: BTC held ~$64.8k after a weekend washout to ~$62k (lowest since July) that flushed ~$2B of mostly long positions before spot recovered to ~$65k.
-- DEX 24h volume fell 17.8% to $8.90B (from $10.82B) - the capitulation churn of the past week is drying up.
-- TVL steadied at ~$71.5B (+1.6% 1d) after six consecutive down days; 7d change still −9.5%.
-- Fed Dec hike odds ticked up: 25bp now priced 88.5% (from 86.5%); "no change" collapsed to 3.45%, 50bp+ at 8.1%.
-- Stablecoin supply slipped to $287.0B (−0.2% 1d, −1.7% 7d); USDC's prior +2.5% constructive move reversed (−0.2%) and PYUSD −9.9% was the only large single-issuer shift.
+- Regime label flipped chop → capitulation: BTC broke to a two-year low, $64,831 → $57,831 (−10.8% since Nov 16, −13.8% 7d), now >50% below the Oct-2025 ATH above $126k.
+- Breadth collapsed from 12/20 to 2/20 green 24h (1/20 on 7d); F&G still pinned Extreme Fear (10 → 12).
+- Total DeFi TVL fell $71.5B → $64.6B (−9.7%; −7.2% 1d, −12.5% 7d) as collateral was marked down across lending and staking.
+- DEX 24h volume spiked to $10.88B (+25.8% 1d, from $8.9B) - deleveraging churn, not organic demand.
+- ETF exodus accelerated: record $541M single-day IBIT outflow on Nov 19, $3.47B November outflows, 2026 net flows now ≈ −$3.1B (13 of 14 sessions red).
 
 ## Active Narratives
-- **Fed rate-hike repricing** - phase: peak. Evidence: December 25bp hike priced 88.5% (was 86.5%) on Polymarket, 50bp+ at 8.1%; PPI 6.5% is the highest since 2020.
-- **BTC/alt beta unwind** - phase: peak. Evidence: weekend flush of ~$2B longs to ~$62k; BTC −13.6% 7d, ETH −14.7% 7d, SOL −18.2% 7d.
-- **Bitcoin ETF outflow streak** - phase: peak. Evidence: 7 straight sessions through Nov 13 (−$1.91B since Nov 5), third straight $1B+ week; BTC+ETH were 96% of $1.21B crypto-ETF outflows.
-- **Perp-DEX fees boom** - phase: rising. Evidence: Hyperliquid Perps fees $3.72M 24h (+70.1% 7d); Jupiter Perps fees +29.1% 7d on TVL −10.7%.
-- **Robinhood Chain small-cap rotation** - phase: emerging. Evidence: CASHCAT pool volume $2.51M (+12.3%, half in the last 6h) with 21 smart-money traders; tokenized-stock core volume −22% to $116M/24h.
+- **Fed hike repricing / rising real yields** - phase: peak. Evidence: Dec 2026 +25bp priced 89.5% on Polymarket (no-change 8.3%, −25bp 0.35%); Nasdaq −4% Friday on higher real Treasury yields.
+- **Cross-asset risk unwind (AI de-rating)** - phase: rising. Evidence: Nasdaq lowest since April, gold lowest since Sept 2025 on Anthropic/Nvidia valuation fears; $2.4B crypto liquidations, 92% longs.
+- **Bitcoin ETF outflow streak** - phase: peak. Evidence: record $541M IBIT single-day outflow; $3.47B out in November; only 2 inflow days all month.
+- **BTC beta unwind / capitulation** - phase: peak. Evidence: breadth 2/20 green 24h, 1/20 7d; BTC lowest since Sept 2024; SOL −10.2% 7d.
+- **Privacy bid (ZEC)** - phase: fading. Evidence: ZEC −14.5% 24h, −19.8% 7d, still rank 11 at ~$12.5B mcap.
 
 ## Top DeFi Protocols (TVL, 7d change)
-- Lido: $17.8B (-14.0%)
-- LayerZero V2: $17.2B (+3.4%)
-- Aave V3: $14.0B (-9.0%)
-- Morpho Blue: $10.0B (-8.3%)
-- SSV Network: $9.7B (-13.8%)
+- LayerZero V2: $17.7B (−0.1%)
+- Lido: $15.3B (−17.8%)
+- Aave V3: $14.2B (−0.2%)
+- Morpho Blue: $8.9B (−13.9%)
+- SSV Network: $8.2B (−17.4%)
 
 ## Chain Flow (top 3 by TVL, 7d)
-- Ethereum: $37.7B (-10.5%)
-- Base: $5.1B (-10.1%)
-- Solana: $4.7B (-8.2%)
+- Ethereum: $33.6B (−13.4%)
+- Solana: $4.46B (−8.2%)
+- Base: $4.41B (−19.5%)
 
 ## Stablecoins
-Total: $287.0B (−1.7% 7d). USDT $175.3B · USDC $69.2B · USDS $5.2B · USDe $4.9B · combined share of mcap 11.5%.
+Total: $283.6B (−1.5% 7d). USDT $174.5B · USDC $68.7B · USDe $4.87B · DAI $4.55B · combined share of mcap 12.4%. USDS −3.4% 1d was the only notable single-issuer move.
 
 ## Trending (CoinGecko)
-- BTC (Bitcoin) - rank 1; trending through the weekend washout, +0.5% 24h
-- LIT (Lighter) - −5.4% 24h, rank 87, $662M; perp-DEX token in the spotlight
-- ZEC (Zcash) - −1.3% 24h but −25.9% 7d, rank 11 - the privacy bid keeps unwinding
-- MACCA / GATO - micro-cap pumps, +19.0% / +19.9% 24h, ranks 790 / 784
+- BTC (Bitcoin) - rank 1, $57.9k, −6.6% 24h - two-year low as risk assets sink
+- ZEC (Zcash) - rank 11, $736, −14.2% 24h - privacy bid keeps unwinding
+- HYPE (Hyperliquid) - rank 10, $58.5, −11.1% 24h - perp-DEX beta sells off hardest
+- CHUNKEE - rank 920, $0.014, −7.6% 24h - micro-cap meme in the trending slot
 
 ## Prediction Markets (Polymarket, top by 24h vol)
 | Market | YES% | 24h Vol | Liquidity |
 |--------|------|---------|-----------|
-| Will there be no new CEO of NVIDIA by December 31, 2028? | 7.7% | $1.23m | $0.12m |
-| Will the Fed increase rates 25 bps after the December 2026 meeting? | 88.5% | $0.09m | $0.37m |
-| Will the Fed increase rates 50+ bps after the December 2026 meeting? | 8.1% | $0.19m | $0.31m |
-| Will Bitcoin dip to $52,500 in November? | 8.5% | $0.10m | $0.07m |
+| Fed no change after the Dec 2026 meeting | 8.3% | $0.99m | $0.42m |
+| Fed increase rates 25 bps after Dec 2026 meeting | 89.5% | $0.73m | $0.78m |
+| Israel x Iran ceasefire continues through Nov 22 | 95.5% | $0.68m | $0.06m |
+| Bitcoin dips to $55,000 by December 31, 2026 | 71.5% | $0.67m | $0.07m |
 
 ## Macro Catalysts (next 48h)
-- Fed Chair Kevin Warsh speaks today (Nov 16, 12pm ET, SF Fed conference) and FOMC minutes land Wed Nov 18; a hawkish tone reinforces the hike trade and pressures risk assets.
-- Nvidia earnings Nov 18 test the AI trade that has partly cushioned equities.
-- BTC ETF flow print Monday (after the US close): a break in the 7-session outflow streak is the first constructive tell to watch.
-- PPI 6.5% (highest since 2020), 10Y yield ~5.0-5.14%, DXY at a 19-month high keep the macro headwind on.
+- Weekend thin liquidity with spot BTC ETFs closed until Monday - amplifies liquidation cascades; Monday's ETF flow print is the first constructive tell (a break in the outflow streak).
+- December FOMC: +25bp hike priced 89.5%, −25bp only 0.35% - a hawkish hike remains the dominant macro risk into the meeting.
+- Anthropic/Nvidia read-through is now the equity-crypto link; any AI-trade stabilization would ease the cross-asset pressure, further de-rating accelerates it.
 
 ## Implications for Downstream Skills
-- **token-pick:** stay defensive - F&G pinned at 10, DEX volume −18% and ETF outflows persisting; no alt-beta long without an ETF-flow inflection or a Fed-pivot signal.
-- **narrative-tracker:** Fed repricing, the beta unwind and the ETF-outflow streak are all at peak - watch for a phase turn; monitor the Robinhood Chain small-cap rotation (emerging) and perp-DEX fees (rising).
+- **token-pick:** stay defensive - capitulation regime (breadth 2/20, F&G 12, record ETF outflows); no alt-beta long without an ETF-flow inflection or Fed-pivot signal. BTC's $55k downside is 71.5% priced for Dec.
+- **narrative-tracker:** Fed repricing, ETF outflows and the beta unwind are all at peak/capitulation - watch for exhaustion; the cross-asset AI de-rating is rising and is now the primary macro driver.
 
 ## Token Picks Made
 | Date | Token | Price | Thesis |

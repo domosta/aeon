@@ -38,14 +38,14 @@
   "revenue-alert": {
     "last_dispatch": "2026-11-16T07:54:39Z",
     "last_status": "success",
-    "last_success": "2026-11-21T07:05:45Z",
-    "total_runs": 5,
-    "total_successes": 5,
+    "last_success": "2026-11-22T18:07:02Z",
+    "total_runs": 6,
+    "total_successes": 6,
     "total_failures": 0,
     "consecutive_failures": 0,
     "success_rate": 1,
     "last_error": null,
-    "last_quality_score": 5
+    "last_quality_score": 4
   },
   "defi-overview": {
     "last_status": "success",

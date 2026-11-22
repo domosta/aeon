@@ -1,10 +1,10 @@
 {
   "skill": "revenue-alert",
-  "last_analyzed": "2026-11-21T07:05:42Z",
-  "quality_score": 5,
-  "assessment": "Accurate, fully verifiable DefiLlama revenue alert across ETH/Base/Robinhood Chain with change %, context and a market-beta-vs-idiosyncratic verdict; figures spot-checked against live API and all match.",
+  "last_analyzed": "2026-11-22T18:06:59Z",
+  "quality_score": 4,
+  "assessment": "Substantive, well-structured revenue alert with multiple specific DefiLlama figures, clear context on the Nov 20 cascade unwind, and actionable watch items; slightly long for an alert but high signal.",
   "flags": [],
-  "avg_score": 4.8,
+  "avg_score": 4.67,
   "history": [
     {
       "date": "2026-11-13",
@@ -38,6 +38,13 @@
       "date": "2026-11-21",
       "score": 5,
       "ts": "2026-11-21T07:05:42Z",
+      "harness": "pi",
+      "model": "openrouter/deepseek/deepseek-v4.1-flash"
+    },
+    {
+      "date": "2026-11-22",
+      "score": 4,
+      "ts": "2026-11-22T18:06:59Z",
       "harness": "pi",
       "model": "openrouter/deepseek/deepseek-v4.1-flash"
     }

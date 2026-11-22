@@ -3,62 +3,70 @@ title: Launchpad revenue tracker (Base, Robinhood Chain, Ethereum)
 description: Rolling daily revenue for token launchpads across Base, Robinhood Chain and Ethereum from DefiLlama, with trend notes. Used by revenue-alert to detect breakouts and decay.
 tags: [launchpad, base, robinhood-chain, ethereum, revenue, defillama]
 resource: https://defillama.com/fees
-timestamp: 2026-11-21T07:10:00Z
+timestamp: 2026-11-22T18:05:00Z
 ---
 
 # Launchpad Revenue Tracker
 
 Daily protocol revenue (USD, DefiLlama `dataType=dailyRevenue`) for every protocol categorised
-`Launchpad` / `NFT Launchpad` on the three monitored chains. Snapshot below is **2026-11-21 ~07:05 UTC**
+`Launchpad` / `NFT Launchpad` on the three monitored chains. Snapshot below is **2026-11-22 ~18:03 UTC**
 (24h vs prior 24h). Update on each `revenue-alert` run — newest snapshot wins, older snapshots stay in git history for trend.
 
 ## Robinhood Chain (every launchpad here is new)
 
 | Protocol | 24h | prev | chg | 7d avg | 30d total | Trend |
 |---|---|---|---|---|---|---|
-| Pons V2 | $16,470 | $23,908 | −31% | $17,343 | $929,333 | Recovered from the $12.8k Nov 16 print, but 30d total now $929k (was $1.14M on Nov 16) — the early-Nov peak ($43.7k Nov 6) is rolling out of the window. Still ~79% of tracked RH launchpad revenue |
-| Binance Alpha | $1,394 | $1,144 | +22% | $1,145 | $22,627 | Steady, ~2× its Nov 16 level |
-| Pons V1 | $1,179 | $831 | +42% | $1,027 | $53,715 | Legacy line, mildly up |
-| Frontier | $112 | $91 | +23% | $86 | $47,531 | Bottomed, small |
-| Flap sh | $107 | $127 | −16% | $121 | $12,285 | Micro |
-| GlazeCorp Launchpad | $62 | $95 | −35% | $57 | $2,670 | Listed Nov 5, never got traction |
-| o1 Launchpad | $58 | $47 | +24% | $45 | $3,506 | RH line, micro |
-| Sentry | $37 | $5.46 | +581% | $18 | $1,190 | Newer line, spiky micro |
-| Coinbarrel | $17.63 | $7.11 | +148% | $25 | $1,176 | Faded after Nov 4 listing |
-| Pez Family | $14.67 | $1.49 | +885% | $11 | $444 | Micro, no traction |
-| Bags | $8.19 | $1.40 | +485% | $9 | $2,628 | Micro |
-| StonkBrokers Safe Launch | ~$0 | ~$0 | — | ~$0 | $25,255 | 30d carried by an earlier burst, now idle |
-| Sapling / PAIR / brand-new shells (ArrowPad, HoodPump, DOTT, HoodMint, Prynt, NOXA Fun, bow.fun, rh.fun, Robin Labs, HookOS) | ~$0 | ~$0 | — | ~$0 | <$1.6k | Empty / idle |
+| Pons V2 | $8,739 | $17,539 | −50% | $16,717 | $879,916 | **0.52× its 7d avg — first time within 10% of the $8k regime-change trigger.** Still ~80% of tracked RH launchpad revenue, but the 30d total keeps shrinking ($929k → $880k) as the early-Nov peak ($43.7k Nov 6) rolls off |
+| Binance Alpha | $825 | $1,325 | −38% | $1,129 | $24,061 | Steady-to-down, ~0.73× avg |
+| Pons V1 | $816 | $1,179 | −31% | $989 | $52,839 | Legacy line, drifting down |
+| PAIR | $75 | $0 | — | $1.31 | $1,437 | Low-base spike off a near-zero 7d avg — not a breakout |
+| Frontier | $62 | $112 | −45% | $70.7 | $47,575 | Bottomed, small |
+| Flap sh | $59.67 | $94.91 | −37% | $118.5 | $11,698 | Micro |
+| GlazeCorp Launchpad | $43.37 | $60.31 | −28% | $57 | $2,720 | Listed Nov 5, never got traction |
+| Agen.space | $40.66 | $38.17 | +7% | $30.8 | $390 | New-ish micro, slowly up |
+| o1 Launchpad | $32.42 | $44.70 | −27% | $37.8 | $3,440 | RH line, micro |
+| Coinbarrel | $30.28 | $67.48 | −55% | $21.8 | $1,079 | Faded after Nov 4 listing |
+| clanker | $22.88 | $35.24 | −35% | $35.5 | $1,624 | Micro |
+| token.select | $16.84 | $11.86 | +42% | $18.4 | $1,427 | Micro |
+| Sentry | $15.29 | $36.23 | −58% | $19.4 | $1,178 | Newer line, spiky micro |
+| Hookers | $6.45 | $0.65 | +892% | $8.00 | $364 | Micro |
+| LetsCash | $2.60 | $6.28 | −59% | $7.19 | $801 | Micro |
+| Bags | $0.95 | $8.19 | −88% | $5.44 | $2,624 | Micro, collapsed |
+| Pez Family | $0.64 | $16.29 | −96% | $7.49 | $438 | Micro, collapsed |
+| **New listings** EscapeHub Launchpad (5.7d) · Polydash (5.0d) · Gmoon (1.9d) | $0 | $0 | — | ~$0 | <$15 | All three print zero — no traction |
+| StonkBrokers Safe Launch / Sapling / ArrowPad / HoodPump / DOTT / HoodMint / Prynt / NOXA Fun / bow.fun / rh.fun / Robin Labs / HookOS | ~$0 | ~$0 | — | ~$0 | <$1.6k | Empty / idle |
 
 ## Base (older cohort)
 
 | Protocol | 24h | prev | chg | 7d avg | 30d total | Trend |
 |---|---|---|---|---|---|---|
-| o1 Launchpad | $1,276 | $3,465 | −63% | $2,811 | $118,956 | Bounced hard on Nov 16 ($439 → $3,465), gave it back; still ~45% of its 30d pace |
-| Umia | $1,084 | $900 | +20% | $1,146 | $47,538 | Stabilised near its 30d run-rate after the Nov decay |
-| clanker | $446 | $1,429 | −69% | $941 | $60,940 | Still well below the Nov 16 bounce print ($2,186) |
-| Binance Alpha | $295 | $198 | +49% | $312 | $16,715 | Low |
-| BaseStonk | $123 | $115 | +7% | $146 | $6,926 | Low |
-| ZORA Coins | $41 | $27 | +52% | $22 | $986 | Micro |
-| manifold.xyz (NFT) | $0 | $47 | −100% | $17 | $241 | Micro |
-| Printr | $0 | $0 | — | $3.6 | $26 | **Faded** — the Nov 14-16 "new Base line" produced no follow-through |
-| Liquid Protocol LaunchPad / Rainbow Token Launchpad | $4.37 each | $0.47 | +830% | $2.9 | $41 | Identical prints — looks like a wiring duplicate, not activity |
-| flaunch / Ape.Store / ZNS / sasa / Boardwalk / g8keep / Basecamp | ~$0 | ~$0 | — | ~$0 | <$130 | Dead |
+| o1 Launchpad | $2,163 | $1,305 | +66% | $2,994 | $95,430 | Bounced, but 0.72× its 7d avg — the Nov 16 spike is still decaying |
+| Umia | $328 | $1,570 | −79% | $833 | $45,029 | Gave back the Nov 21 bounce; 0.39× avg |
+| clanker | $326 | $371 | −12% | $921 | $60,816 | 0.35× avg — well below its 30d pace |
+| Binance Alpha | $213 | $283 | −25% | $287 | $16,287 | Low |
+| BaseStonk | $143 | $114 | +25% | $105 | $6,531 | 1.36× avg, small but above trend |
+| Liquid Protocol LaunchPad | $46.04 | $4.25 | +983% | $5.78 | $59.88 | Duplicate wiring — see next row |
+| Rainbow Token Launchpad | $46.02 | $4.25 | +983% | $5.78 | $59.90 | Identical prints to Liquid Protocol — wiring duplicate, not activity |
+| ZORA Coins | $36 | $41 | −12% | $25.9 | $924 | Micro |
+| manifold.xyz (NFT) | $0.84 | $0 | — | $15.2 | $241 | Micro |
+| Printr | $0 | $0 | — | $3.60 | $26 | **Faded** — the Nov 14-16 "new Base line" produced no follow-through |
+| flaunch / Ape.Store / ZNS / sasa / Boardwalk / g8keep / Basecamp / Squeeze / Sprivio / Smithii / Peddles / basedbid | ~$0 | ~$0 | — | ~$0 | <$130 | Dead |
 
 ## Ethereum
 
 | Protocol | 24h | prev | chg | 7d avg | 30d total | Trend |
 |---|---|---|---|---|---|---|
-| Binance Alpha | $1,697 | $1,200 | +41% | $1,720 | $74,957 | Steady |
-| Stockereum | $522 | $1,461 | −64% | $1,649 | $78,671 | Still decaying from its 30d peak |
-| manifold.xyz (NFT) | $49 | $30 | +63% | $119 | $4,693 | Micro |
-| fusi.ng | $25 | $0 | — | $3.8 | $1,143 | Micro burst |
-| Printr | $0 | $0 | — | $6.4 | $60 | Faded |
-| clanker (ETH) | $0.01 | $0.02 | −50% | ~$0 | $33 | Negligible |
-| PinkSale / Juicebox V1 / Fjord / GraFun / moto.fun / sTONks | ~$0 | ~$0 | — | ~$0 | <$1.4k | Dead |
+| Binance Alpha | $829 | $1,365 | −39% | $1,576 | $75,121 | 0.53× avg — down hard |
+| Stockereum | $307 | $448 | −31% | $994 | $70,217 | Still decaying from its 30d peak |
+| manifold.xyz (NFT) | $15 | $49 | −69% | $120 | $4,686 | Micro |
+| clanker | $0.18 | $0.02 | — | ~$0 | $21 | Negligible |
+| Printr | $0 | $0 | — | $6.43 | $48 | Faded |
+| PinkSale | $0 | $0 | — | $50.3 | $818 | 30d carried by an earlier burst, now idle |
+| fusi.ng / Juicebox V1 / Fjord / GraFun / moto.fun / sTONks / Legion / Packed / HookOS / Peddles / basedbid / Smithii | ~$0 | ~$0 | — | ~$0 | <$1.4k | Dead |
 
 ## Read
 
-- **Nothing rotated.** Pons V2 (RH) still dominates (~79% of tracked launchpad revenue) and simply recovered to its ~$16-17k run-rate after the Nov 16 trough; the 30d total shrank only because the early-Nov peak rolled off. Base's old guard (o1, Umia, clanker) is flat-to-decaying, and the Nov 14-16 "newcomer" Printr has faded to zero on both Base and ETH.
-- **No breakout successor** on any chain as of 2026-11-21. The newest lines with any print (Sentry, Pez Family, Coinbarrel on RH) are micro noise; no line has crossed the ~$2k/day breakout bar with a 7d avg under $500.
-- **Watch trigger:** a new launchpad line crossing ~$2k/day with a 7d avg under $500 (genuine breakout), or Pons V2 falling below ~$8k/day (regime change for Robinhood Chain activity). Neither hit this run.
+- **Pons V2 is the story.** It halved d/d to $8,739 — 0.52× its 7d avg and the closest it has come to the $8k regime-change trigger. It still carries ~80% of tracked RH launchpad revenue, but the trend is one-way down: $43.7k (Nov 6) → $23.9k (Nov 20) → $16.5k (Nov 21) → $8.7k (Nov 22). If it breaks $8k, that is a genuine regime change for Robinhood Chain activity, not noise.
+- **No breakout successor** on any chain as of 2026-11-22. PAIR's $75 print is a low-base micro; Base's o1 bounce is still 0.72× its 7d avg. The three launchpads listed in the last week (EscapeHub, Polydash, Gmoon) all print $0.
+- **Base old guard is decaying in unison** (Umia 0.39×, clanker 0.35×, o1 0.72×). ETH's Binance Alpha and Stockereum are both well under trend. The Liquid/Rainbow duplicate-wiring artifact persists and should be ignored in totals.
+- **Watch trigger:** a new launchpad line crossing ~$2k/day with a 7d avg under $500 (genuine breakout), or Pons V2 falling below ~$8k/day (regime change for Robinhood Chain activity). Neither hit this run — Pons V2 is within 10% of the second.

@@ -1,10 +1,10 @@
 {
   "skill": "flovia",
-  "last_analyzed": "2026-11-21T07:08:47Z",
+  "last_analyzed": "2026-11-22T18:04:15Z",
   "quality_score": 4,
-  "assessment": "Substantive, well-structured Nansen smart-money leaderboard via Flovia with live, on-chain-verifiable wallet addresses (three Solana entries confirmed as real funded accounts), honest window/label/small-sample caveats, realized-vs-unrealized analysis, and text-only next steps; docked for a truncated 12-row response lacking the mandated dated slice and the skill's required result record.",
+  "assessment": "Substantive, well-structured Nansen smart-money PnL leaderboard (20 wallets) via Flovia with on-chain-verifiable addresses that cross-check against the prior day's real run (gatsby, RaRa, plainview.sol, niyedie, 0x5a1486..., 0x63c255...), honest window/realized-vs-unrealized/label caveats, and text-only next steps; docked slightly for the token-concentration claim not being backed by the table and the skill's mandated result record/Summary block being absent.",
   "flags": [],
-  "avg_score": 4.67,
+  "avg_score": 4.57,
   "history": [
     {
       "date": "2026-11-13",
@@ -45,6 +45,13 @@
       "date": "2026-11-21",
       "score": 4,
       "ts": "2026-11-21T07:08:47Z",
+      "harness": "pi",
+      "model": "openrouter/deepseek/deepseek-v4.1-flash"
+    },
+    {
+      "date": "2026-11-22",
+      "score": 4,
+      "ts": "2026-11-22T18:04:15Z",
       "harness": "pi",
       "model": "openrouter/deepseek/deepseek-v4.1-flash"
     }

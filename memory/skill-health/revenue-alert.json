@@ -1,10 +1,10 @@
 {
   "skill": "revenue-alert",
-  "last_analyzed": "2026-11-22T18:06:59Z",
-  "quality_score": 4,
-  "assessment": "Substantive, well-structured revenue alert with multiple specific DefiLlama figures, clear context on the Nov 20 cascade unwind, and actionable watch items; slightly long for an alert but high signal.",
+  "last_analyzed": "2026-11-23T17:43:01Z",
+  "quality_score": 5,
+  "assessment": "Comprehensive, well-sourced revenue alert across Base/Ethereum/Robinhood that correctly identifies ≥50% movers, separates organic activity from timing artifacts (Circle USYC, Liquity V2 one-day spike), tracks launchpads/newcomers, and preserves continuity with prior runs' regime triggers — corroborated by the run's memory log and the updated launchpads.md snapshot.",
   "flags": [],
-  "avg_score": 4.67,
+  "avg_score": 4.71,
   "history": [
     {
       "date": "2026-11-13",
@@ -45,6 +45,13 @@
       "date": "2026-11-22",
       "score": 4,
       "ts": "2026-11-22T18:06:59Z",
+      "harness": "pi",
+      "model": "openrouter/deepseek/deepseek-v4.1-flash"
+    },
+    {
+      "date": "2026-11-23",
+      "score": 5,
+      "ts": "2026-11-23T17:43:01Z",
       "harness": "pi",
       "model": "openrouter/deepseek/deepseek-v4.1-flash"
     }

@@ -1,10 +1,10 @@
 {
   "skill": "defi-overview",
-  "last_analyzed": "2026-11-22T18:05:17Z",
+  "last_analyzed": "2026-11-23T17:43:39Z",
   "quality_score": 4,
-  "assessment": "Complete, template-conformant crypto read with an explicit regime take and movers' causes; core figures (BTC $60,753, ETH $1,712.92, TVL $69.35B, Base $5.13B, Solana $4.61B, DEX vol $8.51B −20.7%, F&G 11, prior-day 12) verified exactly against live CoinGecko/DeFiLlama/alternative.me APIs, though the Polymarket highlight was not independently reproducible from the top-volume list.",
+  "assessment": "Complete, well-structured one-pass DeFi read covering TVL, chains, movers, fees, DEX volume, stables, yields, macro, F&G, breadth and prediction markets, with internally consistent figures and source attribution; verifiable-by-source though specific values can't be independently confirmed here.",
   "flags": [],
-  "avg_score": 4.43,
+  "avg_score": 4.38,
   "history": [
     {
       "date": "2026-11-14",
@@ -52,6 +52,13 @@
       "date": "2026-11-22",
       "score": 4,
       "ts": "2026-11-22T18:05:17Z",
+      "harness": "pi",
+      "model": "openrouter/deepseek/deepseek-v4.1-flash"
+    },
+    {
+      "date": "2026-11-23",
+      "score": 4,
+      "ts": "2026-11-23T17:43:39Z",
       "harness": "pi",
       "model": "openrouter/deepseek/deepseek-v4.1-flash"
     }

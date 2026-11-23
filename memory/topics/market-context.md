@@ -1,65 +1,66 @@
-# Market Context (as of 2026-11-22)
+# Market Context (as of 2026-11-23)
 
-> **Take:** squeeze - BTC whipsawed from a two-year low of $55,252 to $60,757 (+9.9% off the low) as breadth snapped back to 15/20 green, but F&G is still pinned at 11. Conviction: low.
+> **Take:** rotation - BTC +1.4% while SOL +4.8% and DOGE +4.3% lead, breadth 19/20 green and BTC dominance −0.9pp. Conviction: medium.
 
 ## Signal Snapshot
-- BTC $60,757 (+1.3% 24h, −6.1% 7d) · dominance 58.8% (+1.3 pp vs Nov 21)
-- ETH $1,712.6 (+1.9% 24h, −5.6% 7d) · ETH/BTC 0.0282
-- SOL $70.28 (−0.4% 24h, −1.6% 7d)
-- Total mcap $2.08T (+2.2% vs prior snapshot) · DEX vol $8.51B 24h (−20.7%)
-- Breadth: 15/20 green 24h · 3/20 green 7d
-- Fear & Greed: 11 (Extreme Fear) - yesterday 12
+- BTC $61,701 (+1.4% 24h, −3.6% 7d) · dominance 57.9% (−0.9 pp 24h)
+- ETH $1,753.5 (+2.3% 24h, −3.0% 7d) · ETH/BTC 0.0284
+- SOL $73.80 (+4.8% 24h, +5.1% 7d)
+- Total mcap $2.14T (±0.0% 24h as reported) · DEX vol $6.19B 24h (−27.4% 1d)
+- Breadth: 19/20 green 24h · 10/20 green 7d
+- Fear & Greed: 11 (Extreme Fear) - yesterday 11
 
 ## What Changed Since Last Refresh
-- Regime label flipped capitulation → squeeze: BTC tapped a two-year low of $55,252 intraday, then rebounded to $60,757 (+9.9% off the low); breadth snapped from 2/20 to 15/20 green 24h.
-- DEX 24h volume $10.88B → $8.51B (−20.7% 1d) - the Nov 20-21 deleveraging churn is over.
-- Total DeFi TVL $66.5B → $69.1B (+4.0% 1d) as collateral re-marked higher; still −0.7% on the week.
-- F&G 12 → 11, still Extreme Fear despite the bounce (sentiment lagging price).
-- Fed hike pricing firmed and BTC downside repriced: Dec +25bp YES 89.5% → 90.5%; Bitcoin dip-to-$55k-by-Dec 71.5% → 54.5%.
+- Regime label flipped squeeze → rotation: breadth snapped 15/20 → 19/20 green 24h; SOL +4.8% and DOGE +4.3% vs BTC +1.4%, and BTC dominance fell 58.8% → 57.9% (−0.9 pp).
+- BTC extended its rebound $60,757 → $61,701; now +12% off Saturday's two-year low of $55,081.
+- DEX 24h volume $8.51B → $6.19B (−27.4% 1d) - the Nov 20-21 capitulation churn is fully spent.
+- DeFi TVL $69.1B → $70.7B (+2.3% vs prior snapshot; +4.2% 1d) as collateral re-marked higher.
+- F&G held at 11 (Extreme Fear) for a fifth day despite the price bounce - sentiment still lagging.
+- Fed pricing firmed: Dec +25bp YES 90.5% → 93.5%; 50bp hike bets collapsed to 3.7% after the rout.
+- Nov 16-20 BTC ETF week printed $1.79B net outflows (4th straight red week); November total now >$4.1B, worst since 2018.
 
 ## Active Narratives
-- **Fed hike repricing / rising real yields** - phase: peak. Evidence: Dec 2026 +25bp priced 90.5% on Polymarket (no-change 6.75%); 2-yr Treasury ~4.7%, >4% risk-free.
-- **Bitcoin ETF outflow streak** - phase: peak. Evidence: $3.47B+ November net outflows through Nov 19, record $541M single-day IBIT redemption Nov 20; 13 of 15 sessions red.
-- **Cross-asset risk unwind (AI de-rating)** - phase: peak. Evidence: gold, silver and BTC fell in lockstep on cash-shortage/funding stress amid AI-valuation fears before BTC recovered.
-- **BTC beta unwind / capitulation** - phase: fading. Evidence: breadth 2/20 → 15/20 green 24h, BTC +9.9% off its low; but 7d breadth still 3/20.
-- **Privacy bid (ZEC)** - phase: fading. Evidence: ZEC −11.5% 7d, rank slips to 11 (~$13.6B mcap).
+- **Fed hike repricing / Dec FOMC** - phase: peak. Evidence: Dec +25bp priced 93.5% on Polymarket (50bp tail 3.7%); 2-yr Treasury ~4.7%.
+- **Bitcoin ETF outflow streak** - phase: peak. Evidence: $1.79B week Nov 16-20, 4th straight red week; IBIT record $544.7M single-day Friday; November >$4.1B.
+- **Alt / beta rotation off the capitulation low** - phase: emerging. Evidence: breadth 19/20 green 24h (was 15/20), SOL/DOGE/XRP all beat BTC, dominance −0.9pp; 7d breadth still only 10/20.
+- **AI-trade de-rating (cross-asset risk)** - phase: peak. Evidence: Nasdaq −10.4% last week; Nasdaq-100 futures +3.1% Monday and BTC recovered with them.
+- **Privacy bid (ZEC)** - phase: fading. Evidence: ZEC −3.8% 7d (though +3.6% 24h), rank 11 at ~$14.1B mcap.
 
 ## Top DeFi Protocols (TVL, 7d change)
-- LayerZero V2: $17.21B (+3.8%)
-- Lido: $16.76B (−4.8%)
-- Aave V3: $15.32B (+9.5%)
-- Morpho Blue: $9.36B (−6.5%)
-- SSV Network: $9.16B (−5.7%)
+- LayerZero V2: $17.38B (+1.4%)
+- Lido: $17.26B (−2.9%)
+- Aave V3: $15.68B (+12.1%)
+- SSV Network: $9.61B (+0.6%)
+- Morpho Blue: $9.59B (−4.0%)
 
 ## Chain Flow (top 3 by TVL, 7d)
-- Ethereum: $36.16B (−1.6%)
-- Base: $5.13B (+0.9%)
-- Solana: $4.61B (0.0%)
+- Ethereum: $36.95B (−1.5%)
+- Base: $5.23B (+0.8%)
+- Solana: $4.74B (+1.5%)
 
 ## Stablecoins
-Total: $283.8B (+0.1% 1d, −1.4% 7d). USDT $174.6B · USDC $68.7B · USDe $4.87B · DAI $4.55B · combined share of mcap 12.2%. USDS +4.0% 1d was the only notable single-issuer move.
+Total: $284.2B (+0.2% 1d, −1.3% 7d). USDT $174.7B · USDC $69.2B · USDe $4.86B · DAI $4.53B · combined share of mcap ~11.8%. USDS +3.8% 1d was the only notable single-issuer move.
 
 ## Trending (CoinGecko)
-- BTC (Bitcoin) - rank 1, $60.8k, +1.4% 24h - bounced off a two-year low
-- HYPE (Hyperliquid) - rank 10, $63.1, +4.2% 24h - perp-DEX beta leads the rebound
-- POPO (Popo The Turtle) - rank 800, $0.0175, +78% 24h - micro-cap meme in the trending slot
+- ZEC (Zcash) - rank 11, $829, +4.5% 24h - privacy bid still draws search
+- UNI (Uniswap) - rank 27, $4.99, +5.6% 24h - DeFi beta as V4 fees jump
+- PENGU (Pudgy Penguins) - rank 126, $0.00457, +6.9% 24h - memecoin beta in the rebound
 
 ## Prediction Markets (Polymarket, top by 24h vol)
 | Market | YES% | 24h Vol | Liquidity |
 |--------|------|---------|-----------|
-| Fed increase rates 25 bps after Dec 2026 meeting | 90.5% | $0.12m | $0.61m |
-| Fed no change after the Dec 2026 meeting | 6.75% | $0.18m | $0.39m |
-| Bitcoin dips to $55,000 by December 31, 2026 | 54.5% | $0.08m | $0.08m |
-| Bitcoin dips to $40,000 by December 31, 2026 | 9.65% | $0.09m | $0.12m |
+| Fed increase 25 bps after Dec 2026 meeting | 94% | $0.87m | $0.61m |
+| Fed increase 50+ bps after Dec 2026 meeting | 4% | $0.61m | $0.31m |
+| Fed no change after Dec 2026 meeting | 3% | $0.84m | $0.37m |
 
 ## Macro Catalysts (next 48h)
-- Dec 9-10 macro double-header: FOMC decision + projections Dec 9, November CPI the next morning - with +25bp hike priced 90.5% and Waller floating a possible 50bp, two-day vol risk is elevated.
-- BTC ETF flows: Friday Nov 21's IBIT print is still pending; one inflow session would be the first constructive tell after 13 of 15 red days. Thin weekend liquidity into Monday's flow print.
-- AI-trade/equity read-through remains the crypto-beta driver: further AI de-rating pressures BTC, stabilization eases it.
+- Wednesday PCE (Fed's preferred inflation gauge): expected +0.3% MoM after +0.5% in September. Hot print revives 50bp-hike bets and pressures BTC; in-line/cool extends the relief rally.
+- Today's ETF flow print (after 21:00 UTC): four straight red weeks are already locked; a first inflow session is the cleanest risk-on tell.
+- Thanksgiving-shortened US week → thin liquidity into the weekend; small flow imbalance can move price.
 
 ## Implications for Downstream Skills
-- **token-pick:** stay defensive - this is a relief bounce inside Extreme Fear (F&G 11), not a trend reversal; Fed-hike and ETF-outflow overhangs are unresolved. Prefer BTC/ETH quality over alt-beta; do not chase the pop.
-- **narrative-tracker:** the beta-unwind/capitulation narrative is moving peak → fading (breadth snapped back); Fed repricing and ETF outflows are still peak. Watch the first ETF-inflow session as the real risk-on tell.
+- **token-pick:** lean into high-beta majors/alts (SOL, ETH) on the breadth snapback, but keep a defensive core - F&G 11 and 4 straight ETF-outflow weeks are unresolved; no chasing before Wednesday PCE.
+- **narrative-tracker:** the beta-rotation narrative is emerging - watch for an emerging→rising transition on a second green day; Fed-25bp and ETF-outflow narratives are peak/saturated.
 
 ## Token Picks Made
 | Date | Token | Price | Thesis |

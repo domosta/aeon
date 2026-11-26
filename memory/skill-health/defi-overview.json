@@ -1,10 +1,10 @@
 {
   "skill": "defi-overview",
-  "last_analyzed": "2026-11-23T17:43:39Z",
-  "quality_score": 4,
-  "assessment": "Complete, well-structured one-pass DeFi read covering TVL, chains, movers, fees, DEX volume, stables, yields, macro, F&G, breadth and prediction markets, with internally consistent figures and source attribution; verifiable-by-source though specific values can't be independently confirmed here.",
+  "last_analyzed": "2026-11-26T14:37:15Z",
+  "quality_score": 5,
+  "assessment": "Complete, well-structured DeFi/macro read; live spot checks (BTC ~$60.7k, ETH $1,701, SOL $71.29, F&G 11/yest 13) confirm the figures are real and accurate, with regime take, conviction reasoning, movers, real-vs-incentive yields, fees, breadth, and prediction markets all covered.",
   "flags": [],
-  "avg_score": 4.38,
+  "avg_score": 4.44,
   "history": [
     {
       "date": "2026-11-14",
@@ -59,6 +59,13 @@
       "date": "2026-11-23",
       "score": 4,
       "ts": "2026-11-23T17:43:39Z",
+      "harness": "pi",
+      "model": "openrouter/deepseek/deepseek-v4.1-flash"
+    },
+    {
+      "date": "2026-11-26",
+      "score": 5,
+      "ts": "2026-11-26T14:37:15Z",
       "harness": "pi",
       "model": "openrouter/deepseek/deepseek-v4.1-flash"
     }

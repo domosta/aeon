@@ -1,49 +1,49 @@
-ℹ️ Top trader wallets - 30d PnL leaderboard (20 wallets)
+ℹ️ Top 20 smart-money traders by PnL (30d)
 
-## Best-performing trader wallets, last 20 days → 30-day window
+## Top 20 traders by PnL - Nansen smart-money leaderboard
 
-**Caveat first:** Nansen's PnL leaderboard only offers 1 / 7 / 30 / 90 / 180-day windows - there is no 20-day option. The list below is the **30-day** leaderboard (closest available, covers the requested 20 days), ranked by **total PnL = realized + unrealized**, as of 2026-11-22 18:02 UTC. Chains queried: Ethereum, Base, Solana, Arbitrum, BSC, Polygon. Page 1 of 20 per page (not the last page - more wallets exist below rank 20).
+**Window:** 30 days - the nearest supported window to "20 days". Nansen's leaderboard only accepts 1 / 7 / 30 / 90 / 180; a 20-day request is refused (422). So these figures cover 10 extra days.
+**Chains:** ethereum + base + solana. **Data as of:** 2026-11-26 14:35 UTC. Ranked by total PnL = realized + unrealized.
 
-| # | Wallet | Label | Total PnL | Realized | Win rate | Trades | Main chain |
-|---|---|---|---|---|---|---|---|
-| 1 | `9tH2zRYdS3X7PEcsPno3GST1EHe8GX8CSNih1pKpamAp` | RaRa | $962,128 | $715,582 | 36.4% | 4,612 | Solana |
-| 2 | `0x48421e62bc6a337e50bb6069891abb521527f8b1` | Smart Trader | $729,820 | $720,593 | 62.5% | 94 | Ethereum |
-| 3 | `0x63c255b378b90cdc8c7cc244712d830b69cdbdf3` | Smart Trader | $686,146 | $627,979 | 28.6% | 9,115 | BSC |
-| 4 | `0x5a1486cf8f47d1df4b136fd58262e78d4c173d1d` | Smart Trader | $336,875 | $219,622 | 58.3% | 105 | ETH/Base |
-| 5 | `0xd94f7ca6bc37117d2cd35cf8a35f54f4fd92723c` | Smart Trader | $330,011 | $330,080 | 62.5% | 57 | BSC/ETH |
-| 6 | `0xc74bca92077e8a795a19bb16ec44afa5e72ee8a5` | Smart Trader | $279,223 | −$575 | 0% | 6 | BSC |
-| 7 | `0x298425cf268b0b181864109907fa47e762b98543` | Smart Trader | $271,247 | $273,445 | 50% | 3,406 | BSC |
-| 8 | `BSWzqnWrir5s54Fa94GEwBi1CSAR1q6Nio9JGsPGFcy1` | gatsby | $254,056 | $254,107 | 44.4% | 11,959 | Solana |
-| 9 | `0xffae19561c038747c5c9f79f7777c29f28c4b4ad` | Smart Trader | $178,795 | $151,763 | 18.4% | 1,125 | BSC/ETH |
-| 10 | `0xe6e4096061eb68da5b29596cd247396054cd09f4` | Smart Trader | $175,180 | $248,867 | 42.9% | 842 | BSC |
-| 11 | `E5KPzhc3NdWztE6qg1juWfZKTUHLdhD3efFCzBZUXWka` | swaag | $160,012 | $91,483 | 14.3% | 375 | Solana |
-| 12 | `0x208bca77d9a45c523544643c070e02de73c50338` | Smart Trader | $150,911 | $150,910 | 43.8% | 1,664 | BSC |
-| 13 | `n6Lc9Fh5Jfk5q7KPy1cdbW2ZxJERFicYJTXqQZJN7FU` | "thejefeee" on FOMO | $143,189 | $145,285 | 100% | 198 | Solana |
-| 14 | `FvHqdX97tKNQP4Fk4UQnhDJutRjaL8R6h1SctJbq9Ti9` | Smart Trader | $143,153 | $21 | 50% | 44 | Solana |
-| 15 | `9ab9J1hMmkgvNUpNHfNh85qrtYHAiEujyfYb2xSJhiFr` | "niyedie" on FOMO | $142,225 | −$3,443 | 37.5% | 188 | Solana |
-| 16 | `0xd42a05157af07f0c860a5211e03b4eaac20412ce` | Smart Trader | $110,163 | $129,289 | 38.5% | 5,445 | BSC |
-| 17 | `9hciHnHzEyLHtjbeUzpp6ZRt4Y4HQbZg4Vx9sFAGGiup` | plainview.sol | $109,166 | −$3,409 | 50% | 52 | Solana |
-| 18 | `0x0d2510381586601f9d816b87b141c2f9c2c6b812` | Smart Trader | $107,631 | $110,117 | 40% | 90 | BSC |
-| 19 | `CGJfygZNh1jQqcrXJXRub1TNVt3FyMhG8n9y6v6fJ98d` | DONBAGS | $100,342 | $34,676 | 50% | 138 | Solana |
-| 20 | `C481ZKiw4TZGs4EjNkhm6TB7s17swzmqAmCcNm73vGnW` | Guava Guy | $98,487 | $21,353 | 42.9% | 872 | Solana |
+| # | Wallet | Label | Total | Realized | Unrealized | Win | Trades |
+|---|--------|-------|-------|----------|------------|-----|--------|
+| 1 | `9tH2zRYdS3X7PEcsPno3GST1EHe8GX8CSNih1pKpamAp` | RaRa | $858.1k | $715.1k | $143.0k | 38% | 4,845 |
+| 2 | `0x48421e62bc6a337e50bb6069891abb521527f8b1` | Smart Trader | $757.6k | $721.0k | $36.6k | 56% | 99 |
+| 3 | `0x3a2be1afb22a8289ca0712f88f1351400655f061` | Smart Trader | $733.1k | $78.5k | $654.6k | 80% | 63 |
+| 4 | `0x2bb7c033999891153467db6030260963e6a32eda` | Smart Trader | $318.3k | $21.5k | $296.7k | 83% | 144 |
+| 5 | `0x5a1486cf8f47d1df4b136fd58262e78d4c173d1d` | Smart Trader | $311.3k | $285.6k | $25.6k | 67% | 97 |
+| 6 | `BSWzqnWrir5s54Fa94GEwBi1CSAR1q6Nio9JGsPGFcy1` | gatsby | $241.5k | $241.5k | -$0.0k | 50% | 10,620 |
+| 7 | `n6Lc9Fh5Jfk5q7KPy1cdbW2ZxJERFicYJTXqQZJN7FU` | thejefeee | $141.2k | $145.3k | -$4.1k | 100% | 198 |
+| 8 | `E5KPzhc3NdWztE6qg1juWfZKTUHLdhD3efFCzBZUXWka` | swaag | $123.5k | $91.1k | $32.5k | 20% | 330 |
+| 9 | `81cyWDnEL5PoSEkdeHcbEwBvgCPTs3Lq4RXtrTC2FpS4` | coolhandnuke | $119.6k | $124.1k | -$4.5k | 33% | 2,419 |
+| 10 | `3WxibuvNHxSfMY5mBXfzqmbA3svtKpWBUtCqan33PxJS` | MINHxDYNASTY | $111.7k | $91.3k | $20.4k | 38% | 390 |
+| 11 | `9ab9J1hMmkgvNUpNHfNh85qrtYHAiEujyfYb2xSJhiFr` | niyedie | $105.5k | -$3.7k | $109.2k | 25% | 191 |
+| 12 | `4B84JPcX9D7VX2jmq9nMvGoSmL3GVaxUYCqnuo2ZiTVp` | purplereign | $89.5k | $83.2k | $6.3k | 31% | 2,292 |
+| 13 | `9hciHnHzEyLHtjbeUzpp6ZRt4Y4HQbZg4Vx9sFAGGiup` | plainview.sol | $84.4k | $18.5k | $65.9k | 50% | 55 |
+| 14 | `0x0a3594454fd9c9d9c79ecf33273680d248cfdfc0` | Smart Trader | $82.8k | $11.3k | $71.5k | 33% | 6 |
+| 15 | `GjsPNbYiQR8w4feNsZGeCMqhSzTwfPtjTpva6QNhmTak` | FancyPaleFox | $78.6k | $78.6k | $0.0k | 50% | 599 |
+| 16 | `CmnnTNAMsXsYjKi9EkgSoL188kWJy6JNeFjRiLvs9RPY` | Smart Trader | $78.4k | $63.6k | $14.8k | 100% | 1,816 |
+| 17 | `CguBnF3RViub8x4QARUhiYdc1dBi8GGCbUshrkdWv3mF` | onlyswz | $75.1k | $67.3k | $7.8k | 38% | 2,874 |
+| 18 | `FvHqdX97tKNQP4Fk4UQnhDJutRjaL8R6h1SctJbq9Ti9` | Smart Trader | $74.3k | $0.0k | $74.3k | 50% | 44 |
+| 19 | `8vwTtv6SzGdBHrysJ8jmd35KTU7fsi6PhuB78HucJxrK` | A | $73.3k | $73.4k | -$0.1k | 25% | 28 |
+| 20 | `AhGqJVLtm7ij9SX4a7mCdiLaaWf7R31dTRvhjzYtUvfB` | thenextbigthing555 | $73.1k | $57.0k | $16.1k | 38% | 805 |
 
-### Reading the list
-- **PnL is not skill.** Ranks 6 and 14 carry almost all their PnL as *unrealized* (open positions marked to market) - #6 shows 0% win rate on 6 trades and #14's $143k is essentially all unrealized. Rank 1's $962k includes $247k unrealized. Treat those as open risk, not banked profit.
-- **Win rate ≠ profitability.** #1 wins 36% of trades and #3 wins 29% but both lead on PnL - a few large winners, many small losses. #13 shows 100% on 198 trades, which is unusual and worth verifying independently.
-- **Chain concentration:** 9 of 20 are Solana-primary, 8 BSC-primary, 2 Ethereum, 1 mixed. The requested Arbitrum/Polygon names did not surface in the top 20.
-- **Concentration risk:** #1, #3, #7, #10, #18 all show one token dominating PnL (MIHAO, AIN, etc.) - these are single-bet wallets, not diversified traders.
+Combined across the 20: **$4.53M total PnL, $2.96M realized.**
 
-### Gaps
-- 20-day window unavailable; 30-day used. A true 20-day ranking would need per-wallet PnL recomputation from trade history (not available in this endpoint).
-- Page 1 only; ranks 21+ exist (`is_last_page: false`).
-- Labels are Nansen's; "Smart Trader" is a Nansen label, not an endorsement.
+### Read it with care
+- **Rank 3 and 4 are 89% and 93% unrealized** - paper gains, not banked. Rank 11 is the extreme: negative realized PnL (-$3.7k) carried by $109k of unrealized. Rank 18 has $74k unrealized and $21 realized.
+- **This is a Solana meme book.** 15 of 20 trade only Solana tokens; 8 of 20 have MIHAO (ni hao cat) as a top traded token; base appears once in the whole top 20. Ethereum shows up via GULD / CDXR / GROW / RALLY.
+- **Win rates are low, not high** - 20-56% is typical, with huge trade counts (rank 1: 4,845 trades at 38%). These are high-frequency meme traders, not steady compounders. Win rate alone is not a quality signal here.
+- "Smart Trader" is Nansen's own label; the others are Nansen's observed labels (FOMO / pump.fun handles, ENS-style names).
 
-### Allowance
-Free window at 1% (5h resets 2026-11-22T23:02Z, week 2026-11-28, month 2026-12-13). 1 metered Nansen call used; nothing charged.
+### Caveats
+- 30-day window, not 20 - figures include 10 extra days.
+- Leaderboard covers Nansen-labeled wallets only; it is not "all traders".
+- PnL is Nansen's estimate of realized + mark-to-market unrealized value.
 
-### Suggested next steps
-- Pull Nansen wallet profiles for ranks 1-5 to see current open positions and exit liquidity.
-- Re-run this leaderboard on the 7-day window to separate recent momentum from 30-day accumulators.
-- Cross-check the top 5 against Zerion for cross-chain holdings the Nansen view may miss.
+Data provided by Nansen. Nansen lookups share the request text with Nansen; Flovia keeps it up to 2 years under the alpha data-use terms. Free allowance: week 2% used (resets 2026-11-28 07:04 UTC).
 
-*Data provided by Nansen. Nansen lookups are shared with Nansen under Flovia's terms; request text contains no private data.*
+### Next options (suggestions, not run)
+- Re-run this leaderboard on a 7-day window to see who is still hot vs. who front-loaded.
+- Profile any single wallet above (holdings, positions, PnL, transactions) for a deeper read.
+- Run the same board for base only, to find traders the Solana crowd is missing.

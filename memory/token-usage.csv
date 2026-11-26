@@ -36,3 +36,4 @@ date,skill,model,input_tokens,output_tokens,cache_read,cache_creation
 2026-11-23,defi-overview,openrouter/deepseek/deepseek-v4.1-flash,56738,33348,2100608,0
 2026-11-26,revenue-alert,openrouter/deepseek/deepseek-v4.1-flash,59196,21500,783356,0
 2026-11-26,defi-overview,openrouter/deepseek/deepseek-v4.1-flash,78901,37701,2771328,0
+2026-11-26,flovia,openrouter/deepseek/deepseek-v4.1-flash,91313,34375,631424,0

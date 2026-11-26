@@ -1,10 +1,10 @@
 {
   "skill": "flovia",
-  "last_analyzed": "2026-11-22T18:04:15Z",
+  "last_analyzed": "2026-11-26T14:37:34Z",
   "quality_score": 4,
-  "assessment": "Substantive, well-structured Nansen smart-money PnL leaderboard (20 wallets) via Flovia with on-chain-verifiable addresses that cross-check against the prior day's real run (gatsby, RaRa, plainview.sol, niyedie, 0x5a1486..., 0x63c255...), honest window/realized-vs-unrealized/label caveats, and text-only next steps; docked slightly for the token-concentration claim not being backed by the table and the skill's mandated result record/Summary block being absent.",
+  "assessment": "Substantive, well-structured Nansen smart-money PnL leaderboard (20 wallets) fetched via the Flovia MCP, with on-chain-verifiable addresses that cross-check against prior real runs (RaRa realized $715.1k vs $715.6k, plainview.sol 50% win) plus honest window/realized-vs-unrealized/label caveats; docked for the token-concentration claim not being backed by the table and the skill's mandated ### flovia result record/Summary block being absent.",
   "flags": [],
-  "avg_score": 4.57,
+  "avg_score": 4.5,
   "history": [
     {
       "date": "2026-11-13",
@@ -52,6 +52,13 @@
       "date": "2026-11-22",
       "score": 4,
       "ts": "2026-11-22T18:04:15Z",
+      "harness": "pi",
+      "model": "openrouter/deepseek/deepseek-v4.1-flash"
+    },
+    {
+      "date": "2026-11-26",
+      "score": 4,
+      "ts": "2026-11-26T14:37:34Z",
       "harness": "pi",
       "model": "openrouter/deepseek/deepseek-v4.1-flash"
     }

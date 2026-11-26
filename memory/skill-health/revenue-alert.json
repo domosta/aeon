@@ -1,10 +1,10 @@
 {
   "skill": "revenue-alert",
-  "last_analyzed": "2026-11-23T17:43:01Z",
+  "last_analyzed": "2026-11-26T14:36:43Z",
   "quality_score": 5,
-  "assessment": "Comprehensive, well-sourced revenue alert across Base/Ethereum/Robinhood that correctly identifies ≥50% movers, separates organic activity from timing artifacts (Circle USYC, Liquity V2 one-day spike), tracks launchpads/newcomers, and preserves continuity with prior runs' regime triggers — corroborated by the run's memory log and the updated launchpads.md snapshot.",
+  "assessment": "Highly accurate, well-structured revenue alert: chain totals, per-protocol spikes, declines, launchpad and newcomer tracking all independently verified against live DefiLlama and CoinGecko endpoints (e.g. ETH total 24h $2,014,876 vs reported $2.015M; Aave V3 ETH $442,496/+284%; Overtime Base $21,885/4.62x; prices match within intraday drift), with cited sources and clear actionable signals.",
   "flags": [],
-  "avg_score": 4.71,
+  "avg_score": 4.75,
   "history": [
     {
       "date": "2026-11-13",
@@ -52,6 +52,13 @@
       "date": "2026-11-23",
       "score": 5,
       "ts": "2026-11-23T17:43:01Z",
+      "harness": "pi",
+      "model": "openrouter/deepseek/deepseek-v4.1-flash"
+    },
+    {
+      "date": "2026-11-26",
+      "score": 5,
+      "ts": "2026-11-26T14:36:43Z",
       "harness": "pi",
       "model": "openrouter/deepseek/deepseek-v4.1-flash"
     }
